@@ -15,7 +15,6 @@
 			"alpha-3": "AND",
 			"numeric": "020"
 		},
-		"isoCode": "020",
 		"language": {
 			"code": "ca",
 			"iso639_2": "cat",
@@ -45,7 +44,6 @@
 			"alpha-3": "ARE",
 			"numeric": "784"
 		},
-		"isoCode": "784",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -75,7 +73,6 @@
 			"alpha-3": "AFG",
 			"numeric": "004"
 		},
-		"isoCode": "004",
 		"language": {
 			"code": "ps",
 			"iso639_2": "pus",
@@ -105,7 +102,6 @@
 			"alpha-3": "ATG",
 			"numeric": "028"
 		},
-		"isoCode": "028",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -135,7 +131,6 @@
 			"alpha-3": "AIA",
 			"numeric": "660"
 		},
-		"isoCode": "660",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -165,7 +160,6 @@
 			"alpha-3": "ALB",
 			"numeric": "008"
 		},
-		"isoCode": "008",
 		"language": {
 			"code": "sq",
 			"iso639_2": "sqi",
@@ -195,7 +189,6 @@
 			"alpha-3": "ARM",
 			"numeric": "051"
 		},
-		"isoCode": "051",
 		"language": {
 			"code": "hy",
 			"iso639_2": "hye",
@@ -225,7 +218,6 @@
 			"alpha-3": "AGO",
 			"numeric": "024"
 		},
-		"isoCode": "024",
 		"language": {
 			"code": "pt",
 			"iso639_2": "por",
@@ -270,7 +262,6 @@
 			"alpha-3": "ATA",
 			"numeric": "010"
 		},
-		"isoCode": "010",
 		"language": {
 			"code": "None",
 			"iso639_2": "None",
@@ -305,7 +296,6 @@
 			"alpha-3": "ARG",
 			"numeric": "032"
 		},
-		"isoCode": "032",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -345,7 +335,6 @@
 			"alpha-3": "ASM",
 			"numeric": "016"
 		},
-		"isoCode": "016",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -375,7 +364,6 @@
 			"alpha-3": "AUT",
 			"numeric": "040"
 		},
-		"isoCode": "040",
 		"language": {
 			"code": "de",
 			"iso639_2": "deu",
@@ -405,7 +393,6 @@
 			"alpha-3": "AUS",
 			"numeric": "036"
 		},
-		"isoCode": "036",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -439,7 +426,6 @@
 			"alpha-3": "ABW",
 			"numeric": "533"
 		},
-		"isoCode": "533",
 		"language": {
 			"code": "nl",
 			"iso639_2": "nld",
@@ -469,7 +455,6 @@
 			"alpha-3": "ALA",
 			"numeric": "248"
 		},
-		"isoCode": "248",
 		"language": {
 			"code": "sv",
 			"iso639_2": "swe",
@@ -499,7 +484,6 @@
 			"alpha-3": "AZE",
 			"numeric": "031"
 		},
-		"isoCode": "031",
 		"language": {
 			"code": "az",
 			"iso639_2": "aze",
@@ -529,7 +513,6 @@
 			"alpha-3": "BIH",
 			"numeric": "070"
 		},
-		"isoCode": "070",
 		"language": {
 			"code": "bs",
 			"iso639_2": "bos",
@@ -559,7 +542,6 @@
 			"alpha-3": "BRB",
 			"numeric": "052"
 		},
-		"isoCode": "052",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -589,7 +571,6 @@
 			"alpha-3": "BGD",
 			"numeric": "050"
 		},
-		"isoCode": "050",
 		"language": {
 			"code": "bn",
 			"iso639_2": "ben",
@@ -619,7 +600,6 @@
 			"alpha-3": "BEL",
 			"numeric": "056"
 		},
-		"isoCode": "056",
 		"language": {
 			"code": "nl",
 			"iso639_2": "nld",
@@ -649,7 +629,6 @@
 			"alpha-3": "BFA",
 			"numeric": "854"
 		},
-		"isoCode": "854",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -679,7 +658,6 @@
 			"alpha-3": "BGR",
 			"numeric": "100"
 		},
-		"isoCode": "100",
 		"language": {
 			"code": "bg",
 			"iso639_2": "bul",
@@ -709,7 +687,6 @@
 			"alpha-3": "BHR",
 			"numeric": "048"
 		},
-		"isoCode": "048",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -739,7 +716,6 @@
 			"alpha-3": "BDI",
 			"numeric": "108"
 		},
-		"isoCode": "108",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -769,7 +745,6 @@
 			"alpha-3": "BEN",
 			"numeric": "204"
 		},
-		"isoCode": "204",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -799,7 +774,6 @@
 			"alpha-3": "BLM",
 			"numeric": "652"
 		},
-		"isoCode": "652",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -829,7 +803,6 @@
 			"alpha-3": "BMU",
 			"numeric": "060"
 		},
-		"isoCode": "060",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -859,7 +832,6 @@
 			"alpha-3": "BRN",
 			"numeric": "096"
 		},
-		"isoCode": "096",
 		"language": {
 			"code": "ms",
 			"iso639_2": "msa",
@@ -889,7 +861,6 @@
 			"alpha-3": "BOL",
 			"numeric": "068"
 		},
-		"isoCode": "068",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -919,7 +890,6 @@
 			"alpha-3": "BES",
 			"numeric": "535"
 		},
-		"isoCode": "535",
 		"language": {
 			"code": "nl",
 			"iso639_2": "nld",
@@ -949,7 +919,6 @@
 			"alpha-3": "BRA",
 			"numeric": "076"
 		},
-		"isoCode": "076",
 		"language": {
 			"code": "pt",
 			"iso639_2": "por",
@@ -994,7 +963,6 @@
 			"alpha-3": "BHS",
 			"numeric": "044"
 		},
-		"isoCode": "044",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -1024,7 +992,6 @@
 			"alpha-3": "BTN",
 			"numeric": "064"
 		},
-		"isoCode": "064",
 		"language": {
 			"code": "dz",
 			"iso639_2": "dzo",
@@ -1054,7 +1021,6 @@
 			"alpha-3": "BVT",
 			"numeric": "074"
 		},
-		"isoCode": "074",
 		"language": {
 			"code": "",
 			"iso639_2": "",
@@ -1084,7 +1050,6 @@
 			"alpha-3": "BWA",
 			"numeric": "072"
 		},
-		"isoCode": "072",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -1114,7 +1079,6 @@
 			"alpha-3": "BLR",
 			"numeric": "112"
 		},
-		"isoCode": "112",
 		"language": {
 			"code": "be",
 			"iso639_2": "bel",
@@ -1144,7 +1108,6 @@
 			"alpha-3": "BLZ",
 			"numeric": "084"
 		},
-		"isoCode": "084",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -1174,7 +1137,6 @@
 			"alpha-3": "CAN",
 			"numeric": "124"
 		},
-		"isoCode": "124",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -1230,7 +1192,6 @@
 			"alpha-3": "CCK",
 			"numeric": "166"
 		},
-		"isoCode": "166",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -1260,7 +1221,6 @@
 			"alpha-3": "COD",
 			"numeric": "180"
 		},
-		"isoCode": "180",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -1291,7 +1251,6 @@
 			"alpha-3": "CAF",
 			"numeric": "140"
 		},
-		"isoCode": "140",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -1321,7 +1280,6 @@
 			"alpha-3": "COG",
 			"numeric": "178"
 		},
-		"isoCode": "178",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -1351,7 +1309,6 @@
 			"alpha-3": "CHE",
 			"numeric": "756"
 		},
-		"isoCode": "756",
 		"language": {
 			"code": "de",
 			"iso639_2": "deu",
@@ -1381,7 +1338,6 @@
 			"alpha-3": "CIV",
 			"numeric": "384"
 		},
-		"isoCode": "384",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -1411,7 +1367,6 @@
 			"alpha-3": "COK",
 			"numeric": "184"
 		},
-		"isoCode": "184",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -1441,7 +1396,6 @@
 			"alpha-3": "CHL",
 			"numeric": "152"
 		},
-		"isoCode": "152",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -1472,7 +1426,6 @@
 			"alpha-3": "CMR",
 			"numeric": "120"
 		},
-		"isoCode": "120",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -1502,7 +1455,6 @@
 			"alpha-3": "CHN",
 			"numeric": "156"
 		},
-		"isoCode": "156",
 		"language": {
 			"code": "zh",
 			"iso639_2": "zho",
@@ -1533,7 +1485,6 @@
 			"alpha-3": "COL",
 			"numeric": "170"
 		},
-		"isoCode": "170",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -1563,7 +1514,6 @@
 			"alpha-3": "CRI",
 			"numeric": "188"
 		},
-		"isoCode": "188",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -1593,7 +1543,6 @@
 			"alpha-3": "CUB",
 			"numeric": "192"
 		},
-		"isoCode": "192",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -1623,7 +1572,6 @@
 			"alpha-3": "CPV",
 			"numeric": "132"
 		},
-		"isoCode": "132",
 		"language": {
 			"code": "pt",
 			"iso639_2": "por",
@@ -1653,7 +1601,6 @@
 			"alpha-3": "CUW",
 			"numeric": "531"
 		},
-		"isoCode": "531",
 		"language": {
 			"code": "nl",
 			"iso639_2": "nld",
@@ -1683,7 +1630,6 @@
 			"alpha-3": "CXR",
 			"numeric": "162"
 		},
-		"isoCode": "162",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -1713,7 +1659,6 @@
 			"alpha-3": "CYP",
 			"numeric": "196"
 		},
-		"isoCode": "196",
 		"language": {
 			"code": "el",
 			"iso639_2": "ell",
@@ -1743,7 +1688,6 @@
 			"alpha-3": "CZE",
 			"numeric": "203"
 		},
-		"isoCode": "203",
 		"language": {
 			"code": "cs",
 			"iso639_2": "ces",
@@ -1773,7 +1717,6 @@
 			"alpha-3": "DEU",
 			"numeric": "276"
 		},
-		"isoCode": "276",
 		"language": {
 			"code": "de",
 			"iso639_2": "deu",
@@ -1803,7 +1746,6 @@
 			"alpha-3": "DJI",
 			"numeric": "262"
 		},
-		"isoCode": "262",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -1833,7 +1775,6 @@
 			"alpha-3": "DNK",
 			"numeric": "208"
 		},
-		"isoCode": "208",
 		"language": {
 			"code": "da",
 			"iso639_2": "dan",
@@ -1863,7 +1804,6 @@
 			"alpha-3": "DMA",
 			"numeric": "212"
 		},
-		"isoCode": "212",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -1893,7 +1833,6 @@
 			"alpha-3": "DOM",
 			"numeric": "214"
 		},
-		"isoCode": "214",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -1923,7 +1862,6 @@
 			"alpha-3": "DZA",
 			"numeric": "012"
 		},
-		"isoCode": "012",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -1953,7 +1891,6 @@
 			"alpha-3": "ECU",
 			"numeric": "218"
 		},
-		"isoCode": "218",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -1984,7 +1921,6 @@
 			"alpha-3": "EST",
 			"numeric": "233"
 		},
-		"isoCode": "233",
 		"language": {
 			"code": "et",
 			"iso639_2": "est",
@@ -2014,7 +1950,6 @@
 			"alpha-3": "EGY",
 			"numeric": "818"
 		},
-		"isoCode": "818",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -2044,7 +1979,6 @@
 			"alpha-3": "ERI",
 			"numeric": "232"
 		},
-		"isoCode": "232",
 		"language": {
 			"code": "ti",
 			"iso639_2": "tir",
@@ -2074,7 +2008,6 @@
 			"alpha-3": "ESP",
 			"numeric": "724"
 		},
-		"isoCode": "724",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -2104,7 +2037,6 @@
 			"alpha-3": "ETH",
 			"numeric": "231"
 		},
-		"isoCode": "231",
 		"language": {
 			"code": "am",
 			"iso639_2": "amh",
@@ -2134,7 +2066,6 @@
 			"alpha-3": "FIN",
 			"numeric": "246"
 		},
-		"isoCode": "246",
 		"language": {
 			"code": "fi",
 			"iso639_2": "fin",
@@ -2164,7 +2095,6 @@
 			"alpha-3": "FJI",
 			"numeric": "242"
 		},
-		"isoCode": "242",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -2194,7 +2124,6 @@
 			"alpha-3": "FLK",
 			"numeric": "238"
 		},
-		"isoCode": "238",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -2224,7 +2153,6 @@
 			"alpha-3": "FSM",
 			"numeric": "583"
 		},
-		"isoCode": "583",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -2256,7 +2184,6 @@
 			"alpha-3": "FRO",
 			"numeric": "234"
 		},
-		"isoCode": "234",
 		"language": {
 			"code": "fo",
 			"iso639_2": "fao",
@@ -2286,7 +2213,6 @@
 			"alpha-3": "FRA",
 			"numeric": "250"
 		},
-		"isoCode": "250",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -2316,7 +2242,6 @@
 			"alpha-3": "GAB",
 			"numeric": "266"
 		},
-		"isoCode": "266",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -2346,7 +2271,6 @@
 			"alpha-3": "GBR",
 			"numeric": "826"
 		},
-		"isoCode": "826",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -2376,7 +2300,6 @@
 			"alpha-3": "GRD",
 			"numeric": "308"
 		},
-		"isoCode": "308",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -2406,7 +2329,6 @@
 			"alpha-3": "GEO",
 			"numeric": "268"
 		},
-		"isoCode": "268",
 		"language": {
 			"code": "ka",
 			"iso639_2": "kat",
@@ -2436,7 +2358,6 @@
 			"alpha-3": "GUF",
 			"numeric": "254"
 		},
-		"isoCode": "254",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -2466,7 +2387,6 @@
 			"alpha-3": "GGY",
 			"numeric": "831"
 		},
-		"isoCode": "831",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -2496,7 +2416,6 @@
 			"alpha-3": "GHA",
 			"numeric": "288"
 		},
-		"isoCode": "288",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -2526,7 +2445,6 @@
 			"alpha-3": "GIB",
 			"numeric": "292"
 		},
-		"isoCode": "292",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -2556,7 +2474,6 @@
 			"alpha-3": "GRL",
 			"numeric": "304"
 		},
-		"isoCode": "304",
 		"language": {
 			"code": "kl",
 			"iso639_2": "kal",
@@ -2587,7 +2504,6 @@
 			"alpha-3": "GMB",
 			"numeric": "270"
 		},
-		"isoCode": "270",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -2617,7 +2533,6 @@
 			"alpha-3": "GIN",
 			"numeric": "324"
 		},
-		"isoCode": "324",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -2647,7 +2562,6 @@
 			"alpha-3": "GLP",
 			"numeric": "312"
 		},
-		"isoCode": "312",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -2677,7 +2591,6 @@
 			"alpha-3": "GNQ",
 			"numeric": "226"
 		},
-		"isoCode": "226",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -2707,7 +2620,6 @@
 			"alpha-3": "GRC",
 			"numeric": "300"
 		},
-		"isoCode": "300",
 		"language": {
 			"code": "el",
 			"iso639_2": "ell",
@@ -2737,7 +2649,6 @@
 			"alpha-3": "SGS",
 			"numeric": "239"
 		},
-		"isoCode": "239",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -2767,7 +2678,6 @@
 			"alpha-3": "GTM",
 			"numeric": "320"
 		},
-		"isoCode": "320",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -2797,7 +2707,6 @@
 			"alpha-3": "GUM",
 			"numeric": "316"
 		},
-		"isoCode": "316",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -2827,7 +2736,6 @@
 			"alpha-3": "GNB",
 			"numeric": "624"
 		},
-		"isoCode": "624",
 		"language": {
 			"code": "pt",
 			"iso639_2": "por",
@@ -2857,7 +2765,6 @@
 			"alpha-3": "GUY",
 			"numeric": "328"
 		},
-		"isoCode": "328",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -2887,7 +2794,6 @@
 			"alpha-3": "HKG",
 			"numeric": "344"
 		},
-		"isoCode": "344",
 		"language": {
 			"code": "zh",
 			"iso639_2": "zho",
@@ -2917,7 +2823,6 @@
 			"alpha-3": "HND",
 			"numeric": "340"
 		},
-		"isoCode": "340",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -2947,7 +2852,6 @@
 			"alpha-3": "HRV",
 			"numeric": "191"
 		},
-		"isoCode": "191",
 		"language": {
 			"code": "hr",
 			"iso639_2": "hrv",
@@ -2977,7 +2881,6 @@
 			"alpha-3": "HTI",
 			"numeric": "332"
 		},
-		"isoCode": "332",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -3007,7 +2910,6 @@
 			"alpha-3": "HUN",
 			"numeric": "348"
 		},
-		"isoCode": "348",
 		"language": {
 			"code": "hu",
 			"iso639_2": "hun",
@@ -3037,7 +2939,6 @@
 			"alpha-3": "IDN",
 			"numeric": "360"
 		},
-		"isoCode": "360",
 		"language": {
 			"code": "id",
 			"iso639_2": "ind",
@@ -3070,7 +2971,6 @@
 			"alpha-3": "IRL",
 			"numeric": "372"
 		},
-		"isoCode": "372",
 		"language": {
 			"code": "ga",
 			"iso639_2": "gle",
@@ -3100,7 +3000,6 @@
 			"alpha-3": "ISR",
 			"numeric": "376"
 		},
-		"isoCode": "376",
 		"language": {
 			"code": "he",
 			"iso639_2": "heb",
@@ -3130,7 +3029,6 @@
 			"alpha-3": "IMN",
 			"numeric": "833"
 		},
-		"isoCode": "833",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -3160,7 +3058,6 @@
 			"alpha-3": "IND",
 			"numeric": "356"
 		},
-		"isoCode": "356",
 		"language": {
 			"code": "hi",
 			"iso639_2": "hin",
@@ -3190,7 +3087,6 @@
 			"alpha-3": "IOT",
 			"numeric": "086"
 		},
-		"isoCode": "086",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -3220,7 +3116,6 @@
 			"alpha-3": "IRQ",
 			"numeric": "368"
 		},
-		"isoCode": "368",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -3250,7 +3145,6 @@
 			"alpha-3": "IRN",
 			"numeric": "364"
 		},
-		"isoCode": "364",
 		"language": {
 			"code": "fa",
 			"iso639_2": "fas",
@@ -3280,7 +3174,6 @@
 			"alpha-3": "ISL",
 			"numeric": "352"
 		},
-		"isoCode": "352",
 		"language": {
 			"code": "is",
 			"iso639_2": "isl",
@@ -3310,7 +3203,6 @@
 			"alpha-3": "ITA",
 			"numeric": "380"
 		},
-		"isoCode": "380",
 		"language": {
 			"code": "it",
 			"iso639_2": "ita",
@@ -3340,7 +3232,6 @@
 			"alpha-3": "JEY",
 			"numeric": "832"
 		},
-		"isoCode": "832",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -3370,7 +3261,6 @@
 			"alpha-3": "JAM",
 			"numeric": "388"
 		},
-		"isoCode": "388",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -3400,7 +3290,6 @@
 			"alpha-3": "JOR",
 			"numeric": "400"
 		},
-		"isoCode": "400",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -3430,7 +3319,6 @@
 			"alpha-3": "JPN",
 			"numeric": "392"
 		},
-		"isoCode": "392",
 		"language": {
 			"code": "ja",
 			"iso639_2": "jpn",
@@ -3460,7 +3348,6 @@
 			"alpha-3": "KEN",
 			"numeric": "404"
 		},
-		"isoCode": "404",
 		"language": {
 			"code": "sw",
 			"iso639_2": "swa",
@@ -3490,7 +3377,6 @@
 			"alpha-3": "KGZ",
 			"numeric": "417"
 		},
-		"isoCode": "417",
 		"language": {
 			"code": "ky",
 			"iso639_2": "kir",
@@ -3520,7 +3406,6 @@
 			"alpha-3": "KHM",
 			"numeric": "116"
 		},
-		"isoCode": "116",
 		"language": {
 			"code": "km",
 			"iso639_2": "khm",
@@ -3550,7 +3435,6 @@
 			"alpha-3": "KIR",
 			"numeric": "296"
 		},
-		"isoCode": "296",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -3581,7 +3465,6 @@
 			"alpha-3": "COM",
 			"numeric": "174"
 		},
-		"isoCode": "174",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -3611,7 +3494,6 @@
 			"alpha-3": "KNA",
 			"numeric": "659"
 		},
-		"isoCode": "659",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -3641,7 +3523,6 @@
 			"alpha-3": "PRK",
 			"numeric": "408"
 		},
-		"isoCode": "408",
 		"language": {
 			"code": "ko",
 			"iso639_2": "kor",
@@ -3671,7 +3552,6 @@
 			"alpha-3": "KOR",
 			"numeric": "410"
 		},
-		"isoCode": "410",
 		"language": {
 			"code": "ko",
 			"iso639_2": "kor",
@@ -3701,7 +3581,6 @@
 			"alpha-3": "KWT",
 			"numeric": "414"
 		},
-		"isoCode": "414",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -3731,7 +3610,6 @@
 			"alpha-3": "CYM",
 			"numeric": "136"
 		},
-		"isoCode": "136",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -3761,7 +3639,6 @@
 			"alpha-3": "KAZ",
 			"numeric": "398"
 		},
-		"isoCode": "398",
 		"language": {
 			"code": "kk",
 			"iso639_2": "kaz",
@@ -3796,7 +3673,6 @@
 			"alpha-3": "LAO",
 			"numeric": "418"
 		},
-		"isoCode": "418",
 		"language": {
 			"code": "lo",
 			"iso639_2": "lao",
@@ -3826,7 +3702,6 @@
 			"alpha-3": "LBN",
 			"numeric": "422"
 		},
-		"isoCode": "422",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -3856,7 +3731,6 @@
 			"alpha-3": "LCA",
 			"numeric": "662"
 		},
-		"isoCode": "662",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -3886,7 +3760,6 @@
 			"alpha-3": "LIE",
 			"numeric": "438"
 		},
-		"isoCode": "438",
 		"language": {
 			"code": "de",
 			"iso639_2": "deu",
@@ -3916,7 +3789,6 @@
 			"alpha-3": "LKA",
 			"numeric": "144"
 		},
-		"isoCode": "144",
 		"language": {
 			"code": "si",
 			"iso639_2": "sin",
@@ -3946,7 +3818,6 @@
 			"alpha-3": "LBR",
 			"numeric": "430"
 		},
-		"isoCode": "430",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -3976,7 +3847,6 @@
 			"alpha-3": "LSO",
 			"numeric": "426"
 		},
-		"isoCode": "426",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -4006,7 +3876,6 @@
 			"alpha-3": "LTU",
 			"numeric": "440"
 		},
-		"isoCode": "440",
 		"language": {
 			"code": "lt",
 			"iso639_2": "lit",
@@ -4036,7 +3905,6 @@
 			"alpha-3": "LUX",
 			"numeric": "442"
 		},
-		"isoCode": "442",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -4066,7 +3934,6 @@
 			"alpha-3": "LVA",
 			"numeric": "428"
 		},
-		"isoCode": "428",
 		"language": {
 			"code": "lv",
 			"iso639_2": "lav",
@@ -4096,7 +3963,6 @@
 			"alpha-3": "LBY",
 			"numeric": "434"
 		},
-		"isoCode": "434",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -4126,7 +3992,6 @@
 			"alpha-3": "MAR",
 			"numeric": "504"
 		},
-		"isoCode": "504",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -4156,7 +4021,6 @@
 			"alpha-3": "MCO",
 			"numeric": "492"
 		},
-		"isoCode": "492",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -4186,7 +4050,6 @@
 			"alpha-3": "MDA",
 			"numeric": "498"
 		},
-		"isoCode": "498",
 		"language": {
 			"code": "ro",
 			"iso639_2": "ron",
@@ -4216,7 +4079,6 @@
 			"alpha-3": "MNE",
 			"numeric": "499"
 		},
-		"isoCode": "499",
 		"language": {
 			"code": "sr",
 			"iso639_2": "srp",
@@ -4246,7 +4108,6 @@
 			"alpha-3": "MAF",
 			"numeric": "663"
 		},
-		"isoCode": "663",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -4276,7 +4137,6 @@
 			"alpha-3": "MDG",
 			"numeric": "450"
 		},
-		"isoCode": "450",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -4306,7 +4166,6 @@
 			"alpha-3": "MHL",
 			"numeric": "584"
 		},
-		"isoCode": "584",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -4337,7 +4196,6 @@
 			"alpha-3": "MKD",
 			"numeric": "807"
 		},
-		"isoCode": "807",
 		"language": {
 			"code": "mk",
 			"iso639_2": "mkd",
@@ -4367,7 +4225,6 @@
 			"alpha-3": "MLI",
 			"numeric": "466"
 		},
-		"isoCode": "466",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -4397,7 +4254,6 @@
 			"alpha-3": "MMR",
 			"numeric": "104"
 		},
-		"isoCode": "104",
 		"language": {
 			"code": "my",
 			"iso639_2": "mya",
@@ -4427,7 +4283,6 @@
 			"alpha-3": "MNG",
 			"numeric": "496"
 		},
-		"isoCode": "496",
 		"language": {
 			"code": "mn",
 			"iso639_2": "mon",
@@ -4457,7 +4312,6 @@
 			"alpha-3": "MAC",
 			"numeric": "446"
 		},
-		"isoCode": "446",
 		"language": {
 			"code": "zh",
 			"iso639_2": "zho",
@@ -4487,7 +4341,6 @@
 			"alpha-3": "MNP",
 			"numeric": "580"
 		},
-		"isoCode": "580",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -4517,7 +4370,6 @@
 			"alpha-3": "MTQ",
 			"numeric": "474"
 		},
-		"isoCode": "474",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -4547,7 +4399,6 @@
 			"alpha-3": "MRT",
 			"numeric": "478"
 		},
-		"isoCode": "478",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -4577,7 +4428,6 @@
 			"alpha-3": "MSR",
 			"numeric": "500"
 		},
-		"isoCode": "500",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -4607,7 +4457,6 @@
 			"alpha-3": "MLT",
 			"numeric": "470"
 		},
-		"isoCode": "470",
 		"language": {
 			"code": "mt",
 			"iso639_2": "mlt",
@@ -4637,7 +4486,6 @@
 			"alpha-3": "MUS",
 			"numeric": "480"
 		},
-		"isoCode": "480",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -4667,7 +4515,6 @@
 			"alpha-3": "MDV",
 			"numeric": "462"
 		},
-		"isoCode": "462",
 		"language": {
 			"code": "dv",
 			"iso639_2": "div",
@@ -4697,7 +4544,6 @@
 			"alpha-3": "MWI",
 			"numeric": "454"
 		},
-		"isoCode": "454",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -4727,7 +4573,6 @@
 			"alpha-3": "MEX",
 			"numeric": "484"
 		},
-		"isoCode": "484",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -4757,7 +4602,6 @@
 			"alpha-3": "MYS",
 			"numeric": "458"
 		},
-		"isoCode": "458",
 		"language": {
 			"code": "ms",
 			"iso639_2": "msa",
@@ -4787,7 +4631,6 @@
 			"alpha-3": "MOZ",
 			"numeric": "508"
 		},
-		"isoCode": "508",
 		"language": {
 			"code": "pt",
 			"iso639_2": "por",
@@ -4817,7 +4660,6 @@
 			"alpha-3": "NAM",
 			"numeric": "516"
 		},
-		"isoCode": "516",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -4847,7 +4689,6 @@
 			"alpha-3": "NCL",
 			"numeric": "540"
 		},
-		"isoCode": "540",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -4877,7 +4718,6 @@
 			"alpha-3": "NER",
 			"numeric": "562"
 		},
-		"isoCode": "562",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -4907,7 +4747,6 @@
 			"alpha-3": "NFK",
 			"numeric": "574"
 		},
-		"isoCode": "574",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -4937,7 +4776,6 @@
 			"alpha-3": "NGA",
 			"numeric": "566"
 		},
-		"isoCode": "566",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -4967,7 +4805,6 @@
 			"alpha-3": "NIC",
 			"numeric": "558"
 		},
-		"isoCode": "558",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -4997,7 +4834,6 @@
 			"alpha-3": "NLD",
 			"numeric": "528"
 		},
-		"isoCode": "528",
 		"language": {
 			"code": "nl",
 			"iso639_2": "nld",
@@ -5027,7 +4863,6 @@
 			"alpha-3": "NOR",
 			"numeric": "578"
 		},
-		"isoCode": "578",
 		"language": {
 			"code": "no",
 			"iso639_2": "nor",
@@ -5057,7 +4892,6 @@
 			"alpha-3": "NPL",
 			"numeric": "524"
 		},
-		"isoCode": "524",
 		"language": {
 			"code": "ne",
 			"iso639_2": "nep",
@@ -5087,7 +4921,6 @@
 			"alpha-3": "NRU",
 			"numeric": "520"
 		},
-		"isoCode": "520",
 		"language": {
 			"code": "na",
 			"iso639_2": "nau",
@@ -5117,7 +4950,6 @@
 			"alpha-3": "NIU",
 			"numeric": "570"
 		},
-		"isoCode": "570",
 		"language": {
 			"code": "ni",
 			"iso639_2": "niu",
@@ -5147,7 +4979,6 @@
 			"alpha-3": "NZL",
 			"numeric": "554"
 		},
-		"isoCode": "554",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -5178,7 +5009,6 @@
 			"alpha-3": "OMN",
 			"numeric": "512"
 		},
-		"isoCode": "512",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -5208,7 +5038,6 @@
 			"alpha-3": "PAN",
 			"numeric": "591"
 		},
-		"isoCode": "591",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -5238,7 +5067,6 @@
 			"alpha-3": "PER",
 			"numeric": "604"
 		},
-		"isoCode": "604",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -5268,7 +5096,6 @@
 			"alpha-3": "PYF",
 			"numeric": "258"
 		},
-		"isoCode": "258",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -5300,7 +5127,6 @@
 			"alpha-3": "PNG",
 			"numeric": "598"
 		},
-		"isoCode": "598",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -5330,7 +5156,6 @@
 			"alpha-3": "PHL",
 			"numeric": "608"
 		},
-		"isoCode": "608",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -5360,7 +5185,6 @@
 			"alpha-3": "PAK",
 			"numeric": "586"
 		},
-		"isoCode": "586",
 		"language": {
 			"code": "ur",
 			"iso639_2": "urd",
@@ -5390,7 +5214,6 @@
 			"alpha-3": "POL",
 			"numeric": "616"
 		},
-		"isoCode": "616",
 		"language": {
 			"code": "pl",
 			"iso639_2": "pol",
@@ -5420,7 +5243,6 @@
 			"alpha-3": "SPM",
 			"numeric": "666"
 		},
-		"isoCode": "666",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -5450,7 +5272,6 @@
 			"alpha-3": "PCN",
 			"numeric": "612"
 		},
-		"isoCode": "612",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -5480,7 +5301,6 @@
 			"alpha-3": "PRI",
 			"numeric": "630"
 		},
-		"isoCode": "630",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -5510,7 +5330,6 @@
 			"alpha-3": "PSE",
 			"numeric": "275"
 		},
-		"isoCode": "275",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -5541,7 +5360,6 @@
 			"alpha-3": "PRT",
 			"numeric": "620"
 		},
-		"isoCode": "620",
 		"language": {
 			"code": "pt",
 			"iso639_2": "por",
@@ -5571,7 +5389,6 @@
 			"alpha-3": "PLW",
 			"numeric": "585"
 		},
-		"isoCode": "585",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -5601,7 +5418,6 @@
 			"alpha-3": "PRY",
 			"numeric": "600"
 		},
-		"isoCode": "600",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -5631,7 +5447,6 @@
 			"alpha-3": "QAT",
 			"numeric": "634"
 		},
-		"isoCode": "634",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -5661,7 +5476,6 @@
 			"alpha-3": "REU",
 			"numeric": "638"
 		},
-		"isoCode": "638",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -5691,7 +5505,6 @@
 			"alpha-3": "ROU",
 			"numeric": "642"
 		},
-		"isoCode": "642",
 		"language": {
 			"code": "ro",
 			"iso639_2": "ron",
@@ -5721,7 +5534,6 @@
 			"alpha-3": "SRB",
 			"numeric": "688"
 		},
-		"isoCode": "688",
 		"language": {
 			"code": "sr",
 			"iso639_2": "srp",
@@ -5751,7 +5563,6 @@
 			"alpha-3": "RUS",
 			"numeric": "643"
 		},
-		"isoCode": "643",
 		"language": {
 			"code": "ru",
 			"iso639_2": "rus",
@@ -5791,7 +5602,6 @@
 			"alpha-3": "RWA",
 			"numeric": "646"
 		},
-		"isoCode": "646",
 		"language": {
 			"code": "rw",
 			"iso639_2": "kin",
@@ -5821,7 +5631,6 @@
 			"alpha-3": "SAU",
 			"numeric": "682"
 		},
-		"isoCode": "682",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -5851,7 +5660,6 @@
 			"alpha-3": "SLB",
 			"numeric": "090"
 		},
-		"isoCode": "090",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -5881,7 +5689,6 @@
 			"alpha-3": "SYC",
 			"numeric": "690"
 		},
-		"isoCode": "690",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -5911,7 +5718,6 @@
 			"alpha-3": "SDN",
 			"numeric": "729"
 		},
-		"isoCode": "729",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -5941,7 +5747,6 @@
 			"alpha-3": "SWE",
 			"numeric": "752"
 		},
-		"isoCode": "752",
 		"language": {
 			"code": "sv",
 			"iso639_2": "swe",
@@ -5971,7 +5776,6 @@
 			"alpha-3": "SGP",
 			"numeric": "702"
 		},
-		"isoCode": "702",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -6001,7 +5805,6 @@
 			"alpha-3": "SHN",
 			"numeric": "654"
 		},
-		"isoCode": "654",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -6031,7 +5834,6 @@
 			"alpha-3": "SVN",
 			"numeric": "705"
 		},
-		"isoCode": "705",
 		"language": {
 			"code": "sl",
 			"iso639_2": "slv",
@@ -6061,7 +5863,6 @@
 			"alpha-3": "SJM",
 			"numeric": "744"
 		},
-		"isoCode": "744",
 		"language": {
 			"code": "no",
 			"iso639_2": "nor",
@@ -6091,7 +5892,6 @@
 			"alpha-3": "SVK",
 			"numeric": "703"
 		},
-		"isoCode": "703",
 		"language": {
 			"code": "sk",
 			"iso639_2": "slk",
@@ -6121,7 +5921,6 @@
 			"alpha-3": "SLE",
 			"numeric": "694"
 		},
-		"isoCode": "694",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -6151,7 +5950,6 @@
 			"alpha-3": "SMR",
 			"numeric": "674"
 		},
-		"isoCode": "674",
 		"language": {
 			"code": "it",
 			"iso639_2": "ita",
@@ -6181,7 +5979,6 @@
 			"alpha-3": "SEN",
 			"numeric": "686"
 		},
-		"isoCode": "686",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -6211,7 +6008,6 @@
 			"alpha-3": "SOM",
 			"numeric": "706"
 		},
-		"isoCode": "706",
 		"language": {
 			"code": "so",
 			"iso639_2": "som",
@@ -6241,7 +6037,6 @@
 			"alpha-3": "SUR",
 			"numeric": "740"
 		},
-		"isoCode": "740",
 		"language": {
 			"code": "nl",
 			"iso639_2": "nld",
@@ -6271,7 +6066,6 @@
 			"alpha-3": "SSD",
 			"numeric": "728"
 		},
-		"isoCode": "728",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -6301,7 +6095,6 @@
 			"alpha-3": "STP",
 			"numeric": "678"
 		},
-		"isoCode": "678",
 		"language": {
 			"code": "pt",
 			"iso639_2": "por",
@@ -6331,7 +6124,6 @@
 			"alpha-3": "SLV",
 			"numeric": "222"
 		},
-		"isoCode": "222",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -6361,7 +6153,6 @@
 			"alpha-3": "SXM",
 			"numeric": "534"
 		},
-		"isoCode": "534",
 		"language": {
 			"code": "nl",
 			"iso639_2": "nld",
@@ -6391,7 +6182,6 @@
 			"alpha-3": "SYR",
 			"numeric": "760"
 		},
-		"isoCode": "760",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -6421,7 +6211,6 @@
 			"alpha-3": "SWZ",
 			"numeric": "748"
 		},
-		"isoCode": "748",
 		"language": {
 			"code": "ss",
 			"iso639_2": "ssw",
@@ -6451,7 +6240,6 @@
 			"alpha-3": "TCA",
 			"numeric": "796"
 		},
-		"isoCode": "796",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -6481,7 +6269,6 @@
 			"alpha-3": "TCD",
 			"numeric": "148"
 		},
-		"isoCode": "148",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -6511,7 +6298,6 @@
 			"alpha-3": "ATF",
 			"numeric": "260"
 		},
-		"isoCode": "260",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -6541,7 +6327,6 @@
 			"alpha-3": "TGO",
 			"numeric": "768"
 		},
-		"isoCode": "768",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -6571,7 +6356,6 @@
 			"alpha-3": "THA",
 			"numeric": "764"
 		},
-		"isoCode": "764",
 		"language": {
 			"code": "th",
 			"iso639_2": "tha",
@@ -6601,7 +6385,6 @@
 			"alpha-3": "TJK",
 			"numeric": "762"
 		},
-		"isoCode": "762",
 		"language": {
 			"code": "tg",
 			"iso639_2": "tgk",
@@ -6631,7 +6414,6 @@
 			"alpha-3": "TKL",
 			"numeric": "772"
 		},
-		"isoCode": "772",
 		"language": {
 			"code": "tkl",
 			"iso639_2": "tkl",
@@ -6661,7 +6443,6 @@
 			"alpha-3": "TLS",
 			"numeric": "626"
 		},
-		"isoCode": "626",
 		"language": {
 			"code": "pt",
 			"iso639_2": "por",
@@ -6691,7 +6472,6 @@
 			"alpha-3": "TKM",
 			"numeric": "795"
 		},
-		"isoCode": "795",
 		"language": {
 			"code": "tk",
 			"iso639_2": "tuk",
@@ -6721,7 +6501,6 @@
 			"alpha-3": "TUN",
 			"numeric": "788"
 		},
-		"isoCode": "788",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -6751,7 +6530,6 @@
 			"alpha-3": "TON",
 			"numeric": "776"
 		},
-		"isoCode": "776",
 		"language": {
 			"code": "to",
 			"iso639_2": "ton",
@@ -6781,7 +6559,6 @@
 			"alpha-3": "TUR",
 			"numeric": "792"
 		},
-		"isoCode": "792",
 		"language": {
 			"code": "tr",
 			"iso639_2": "tur",
@@ -6811,7 +6588,6 @@
 			"alpha-3": "TTO",
 			"numeric": "780"
 		},
-		"isoCode": "780",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -6841,7 +6617,6 @@
 			"alpha-3": "TUV",
 			"numeric": "798"
 		},
-		"isoCode": "798",
 		"language": {
 			"code": "tvl",
 			"iso639_2": "tvl",
@@ -6871,7 +6646,6 @@
 			"alpha-3": "TWN",
 			"numeric": "158"
 		},
-		"isoCode": "158",
 		"language": {
 			"code": "zh",
 			"iso639_2": "zho",
@@ -6901,7 +6675,6 @@
 			"alpha-3": "TZA",
 			"numeric": "834"
 		},
-		"isoCode": "834",
 		"language": {
 			"code": "sw",
 			"iso639_2": "swa",
@@ -6931,7 +6704,6 @@
 			"alpha-3": "UKR",
 			"numeric": "804"
 		},
-		"isoCode": "804",
 		"language": {
 			"code": "uk",
 			"iso639_2": "ukr",
@@ -6961,7 +6733,6 @@
 			"alpha-3": "UGA",
 			"numeric": "800"
 		},
-		"isoCode": "800",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -6991,7 +6762,6 @@
 			"alpha-3": "UMI",
 			"numeric": "581"
 		},
-		"isoCode": "581",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -7023,7 +6793,6 @@
 			"alpha-3": "USA",
 			"numeric": "840"
 		},
-		"isoCode": "840",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -7083,7 +6852,6 @@
 			"alpha-3": "URY",
 			"numeric": "858"
 		},
-		"isoCode": "858",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -7113,7 +6881,6 @@
 			"alpha-3": "UZB",
 			"numeric": "860"
 		},
-		"isoCode": "860",
 		"language": {
 			"code": "uz",
 			"iso639_2": "uzb",
@@ -7144,7 +6911,6 @@
 			"alpha-3": "VAT",
 			"numeric": "336"
 		},
-		"isoCode": "336",
 		"language": {
 			"code": "la",
 			"iso639_2": "lat",
@@ -7174,7 +6940,6 @@
 			"alpha-3": "VCT",
 			"numeric": "670"
 		},
-		"isoCode": "670",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -7204,7 +6969,6 @@
 			"alpha-3": "VEN",
 			"numeric": "862"
 		},
-		"isoCode": "862",
 		"language": {
 			"code": "es",
 			"iso639_2": "spa",
@@ -7234,7 +6998,6 @@
 			"alpha-3": "VGB",
 			"numeric": "092"
 		},
-		"isoCode": "092",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -7264,7 +7027,6 @@
 			"alpha-3": "VIR",
 			"numeric": "850"
 		},
-		"isoCode": "850",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -7294,7 +7056,6 @@
 			"alpha-3": "VNM",
 			"numeric": "704"
 		},
-		"isoCode": "704",
 		"language": {
 			"code": "vi",
 			"iso639_2": "vie",
@@ -7324,7 +7085,6 @@
 			"alpha-3": "VUT",
 			"numeric": "548"
 		},
-		"isoCode": "548",
 		"language": {
 			"code": "bi",
 			"iso639_2": "bis",
@@ -7354,7 +7114,6 @@
 			"alpha-3": "WLF",
 			"numeric": "876"
 		},
-		"isoCode": "876",
 		"language": {
 			"code": "wls",
 			"iso639_2": "wls",
@@ -7384,7 +7143,6 @@
 			"alpha-3": "WSM",
 			"numeric": "882"
 		},
-		"isoCode": "882",
 		"language": {
 			"code": "sm",
 			"iso639_2": "smo",
@@ -7414,7 +7172,6 @@
 			"alpha-3": "YEM",
 			"numeric": "887"
 		},
-		"isoCode": "887",
 		"language": {
 			"code": "ar",
 			"iso639_2": "ara",
@@ -7444,7 +7201,6 @@
 			"alpha-3": "MYT",
 			"numeric": "175"
 		},
-		"isoCode": "175",
 		"language": {
 			"code": "fr",
 			"iso639_2": "fra",
@@ -7474,7 +7230,6 @@
 			"alpha-3": "ZAF",
 			"numeric": "710"
 		},
-		"isoCode": "710",
 		"language": {
 			"code": "af",
 			"iso639_2": "afr",
@@ -7504,7 +7259,6 @@
 			"alpha-3": "ZMB",
 			"numeric": "894"
 		},
-		"isoCode": "894",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
@@ -7534,7 +7288,6 @@
 			"alpha-3": "ZWE",
 			"numeric": "716"
 		},
-		"isoCode": "716",
 		"language": {
 			"code": "en",
 			"iso639_2": "eng",
