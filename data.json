@@ -26,7 +26,7 @@
 		"timezones": {
 			"Europe/Andorra": "+01:00"
 		},
-		"unicode_emoji": "🇦🇹"
+		"unicode_emoji": "\ud83c\udde6\ud83c\udde9"
 	},
 	"AE": {
 		"capital": "Abu Dhabi",
@@ -55,7 +55,7 @@
 		"timezones": {
 			"Asia/Dubai": "+04:00"
 		},
-		"unicode_emoji": "🇦🇪"
+		"unicode_emoji": "\ud83c\udde6\ud83c\uddea"
 	},
 	"AF": {
 		"capital": "Kabul",
@@ -84,7 +84,7 @@
 		"timezones": {
 			"Asia/Kabul": "+04:30"
 		},
-		"unicode_emoji": "🇦🇫"
+		"unicode_emoji": "\ud83c\udde6\ud83c\uddeb"
 	},
 	"AG": {
 		"capital": "Saint John's",
@@ -93,7 +93,7 @@
 			"name": "East Caribbean dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+1268",
+		"dialling_code": "+1-268",
 		"emoji": "🇦🇬",
 		"flag": "https://restcountries.eu/data/atg.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AG.svg",
@@ -113,7 +113,7 @@
 		"timezones": {
 			"America/Antigua": "-04:00"
 		},
-		"unicode_emoji": "🇦🇬"
+		"unicode_emoji": "\ud83c\udde6\ud83c\uddec"
 	},
 	"AI": {
 		"capital": "The Valley",
@@ -122,7 +122,7 @@
 			"name": "East Caribbean dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+1264",
+		"dialling_code": "+1-264",
 		"emoji": "🇦🇮",
 		"flag": "https://restcountries.eu/data/aia.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AI.svg",
@@ -142,7 +142,7 @@
 		"timezones": {
 			"America/Anguilla": "-04:00"
 		},
-		"unicode_emoji": "🇦🇮"
+		"unicode_emoji": "\ud83c\udde6\ud83c\uddee"
 	},
 	"AL": {
 		"capital": "Tirana",
@@ -171,7 +171,7 @@
 		"timezones": {
 			"Europe/Tirane": "+01:00"
 		},
-		"unicode_emoji": "🇦🇱"
+		"unicode_emoji": "\ud83c\udde6\ud83c\uddf1"
 	},
 	"AM": {
 		"capital": "Yerevan",
@@ -200,7 +200,7 @@
 		"timezones": {
 			"Asia/Yerevan": "+04:00"
 		},
-		"unicode_emoji": "🇦🇲"
+		"unicode_emoji": "\ud83c\udde6\ud83c\uddf2"
 	},
 	"AO": {
 		"capital": "Luanda",
@@ -244,7 +244,7 @@
 			"Africa/Mbabane": "+02:00",
 			"Africa/Menongue": "+01:00"
 		},
-		"unicode_emoji": "🇦🇴"
+		"unicode_emoji": "\ud83c\udde6\ud83c\uddf4"
 	},
 	"AQ": {
 		"capital": "",
@@ -253,10 +253,10 @@
 			"name": "No universal currency",
 			"symbol": ""
 		},
-		"dialling_code": "",
+		"dialling_code": "+",
 		"emoji": "🇦🇶",
 		"flag": "https://restcountries.eu/data/ata.svg",
-		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ATA.svg",
+		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AQ.svg",
 		"iso": {
 			"alpha-2": "AQ",
 			"alpha-3": "ATA",
@@ -269,7 +269,7 @@
 			"nativeName": "No official language"
 		},
 		"name": "Antarctica",
-		"region": "Antarctica",
+		"region": "",
 		"timezones": {
 			"Antarctica/Argentina/Ushuaia": "-03:00",
 			"Antarctica/McMurdo": "+12:00",
@@ -278,7 +278,7 @@
 			"Antarctica/Rothera": "-03:00",
 			"Antarctica/South_Pole": "-12:00"
 		},
-		"unicode_emoji": "🇦🇶"
+		"unicode_emoji": "\ud83c\udde6\ud83c\uddf6"
 	},
 	"AR": {
 		"capital": "Buenos Aires",
@@ -317,7 +317,7 @@
 			"America/Argentina/Tucuman": "-03:00",
 			"America/Argentina/Ushuaia": "-03:00"
 		},
-		"unicode_emoji": "🇦🇷"
+		"unicode_emoji": "\ud83c\udde6\ud83c\uddf7"
 	},
 	"AS": {
 		"capital": "Pago Pago",
@@ -326,7 +326,7 @@
 			"name": "United States dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+1",
+		"dialling_code": "+1-684",
 		"emoji": "🇦🇸",
 		"flag": "https://restcountries.eu/data/asm.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AS.svg",
@@ -346,7 +346,7 @@
 		"timezones": {
 			"Pacific/Pago_Pago": "-11:00"
 		},
-		"unicode_emoji": "🇦🇸"
+		"unicode_emoji": "\ud83c\udde6\ud83c\uddf8"
 	},
 	"AT": {
 		"capital": "Vienna",
@@ -375,7 +375,7 @@
 		"timezones": {
 			"Europe/Vienna": "+01:00"
 		},
-		"unicode_emoji": "🇦🇹"
+		"unicode_emoji": "\ud83c\udde6\ud83c\uddf9"
 	},
 	"AU": {
 		"capital": "Canberra",
@@ -408,7 +408,7 @@
 			"Australia/Perth": "+08:00",
 			"Australia/Sydney": "+10:00"
 		},
-		"unicode_emoji": "🇦🇺"
+		"unicode_emoji": "\ud83c\udde6\ud83c\uddfa"
 	},
 	"AW": {
 		"capital": "Oranjestad",
@@ -437,7 +437,7 @@
 		"timezones": {
 			"America/Aruba": "-04:00"
 		},
-		"unicode_emoji": "🇦🇼"
+		"unicode_emoji": "\ud83c\udde6\ud83c\uddfc"
 	},
 	"AX": {
 		"capital": "Mariehamn",
@@ -446,7 +446,7 @@
 			"name": "Euro",
 			"symbol": "€"
 		},
-		"dialling_code": "+358",
+		"dialling_code": "+358-18",
 		"emoji": "🇦🇽",
 		"flag": "https://restcountries.eu/data/ala.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AX.svg",
@@ -466,7 +466,7 @@
 		"timezones": {
 			"Europe/Mariehamn": "+03:00"
 		},
-		"unicode_emoji": "🇦🇽"
+		"unicode_emoji": "\ud83c\udde6\ud83c\uddfd"
 	},
 	"AZ": {
 		"capital": "Baku",
@@ -495,7 +495,7 @@
 		"timezones": {
 			"Asia/Baku": "+04:00"
 		},
-		"unicode_emoji": "🇦🇿"
+		"unicode_emoji": "\ud83c\udde6\ud83c\uddff"
 	},
 	"BA": {
 		"capital": "Sarajevo",
@@ -524,7 +524,7 @@
 		"timezones": {
 			"Europe/Sarajevo": "+01:00"
 		},
-		"unicode_emoji": "🇧🇦"
+		"unicode_emoji": "\ud83c\udde7\ud83c\udde6"
 	},
 	"BB": {
 		"capital": "Bridgetown",
@@ -533,7 +533,7 @@
 			"name": "Barbadian dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+1246",
+		"dialling_code": "+1-246",
 		"emoji": "🇧🇧",
 		"flag": "https://restcountries.eu/data/brb.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BB.svg",
@@ -553,7 +553,7 @@
 		"timezones": {
 			"America/Barbados": "-04:00"
 		},
-		"unicode_emoji": "🇧🇧"
+		"unicode_emoji": "\ud83c\udde7\ud83c\udde7"
 	},
 	"BD": {
 		"capital": "Dhaka",
@@ -582,7 +582,7 @@
 		"timezones": {
 			"Asia/Dhaka": "+06:00"
 		},
-		"unicode_emoji": "🇧🇴"
+		"unicode_emoji": "\ud83c\udde7\ud83c\udde9"
 	},
 	"BE": {
 		"capital": "Brussels",
@@ -611,7 +611,7 @@
 		"timezones": {
 			"Europe/Brussels": "+01:00"
 		},
-		"unicode_emoji": "🇧🇪"
+		"unicode_emoji": "\ud83c\udde7\ud83c\uddea"
 	},
 	"BF": {
 		"capital": "Ouagadougou",
@@ -640,7 +640,7 @@
 		"timezones": {
 			"Africa/Ouagadougou": "+00:00"
 		},
-		"unicode_emoji": "🇧🇫"
+		"unicode_emoji": "\ud83c\udde7\ud83c\uddeb"
 	},
 	"BG": {
 		"capital": "Sofia",
@@ -669,7 +669,7 @@
 		"timezones": {
 			"Europe/Sofia": "+02:00"
 		},
-		"unicode_emoji": "🇧🇬"
+		"unicode_emoji": "\ud83c\udde7\ud83c\uddec"
 	},
 	"BH": {
 		"capital": "Manama",
@@ -698,7 +698,7 @@
 		"timezones": {
 			"Asia/Bahrain": "+03:00"
 		},
-		"unicode_emoji": "🇧🇭"
+		"unicode_emoji": "\ud83c\udde7\ud83c\udded"
 	},
 	"BI": {
 		"capital": "Bujumbura",
@@ -727,7 +727,7 @@
 		"timezones": {
 			"Africa/Bujumbura": "+02:00"
 		},
-		"unicode_emoji": "🇧🇷"
+		"unicode_emoji": "\ud83c\udde7\ud83c\uddee"
 	},
 	"BJ": {
 		"capital": "Porto-Novo",
@@ -756,7 +756,7 @@
 		"timezones": {
 			"Africa/Porto-Novo": "+01:00"
 		},
-		"unicode_emoji": "🇧🇯"
+		"unicode_emoji": "\ud83c\udde7\ud83c\uddef"
 	},
 	"BL": {
 		"capital": "Gustavia",
@@ -785,7 +785,7 @@
 		"timezones": {
 			"America/St_Barthelemy": "±00:00"
 		},
-		"unicode_emoji": "🇧🇱"
+		"unicode_emoji": "\ud83c\udde7\ud83c\uddf1"
 	},
 	"BM": {
 		"capital": "Hamilton",
@@ -794,7 +794,7 @@
 			"name": "Bermudian dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+1441",
+		"dialling_code": "+1-441",
 		"emoji": "🇧🇲",
 		"flag": "https://restcountries.eu/data/bmu.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BM.svg",
@@ -814,7 +814,7 @@
 		"timezones": {
 			"Atlantic/Bermuda": "-04:00"
 		},
-		"unicode_emoji": "🇧🇲"
+		"unicode_emoji": "\ud83c\udde7\ud83c\uddf2"
 	},
 	"BN": {
 		"capital": "Bandar Seri Begawan",
@@ -843,7 +843,7 @@
 		"timezones": {
 			"Asia/Brunei": "+08:00"
 		},
-		"unicode_emoji": "🇧🇳"
+		"unicode_emoji": "\ud83c\udde7\ud83c\uddf3"
 	},
 	"BO": {
 		"capital": "Sucre",
@@ -867,12 +867,12 @@
 			"name": "Spanish",
 			"nativeName": "Español"
 		},
-		"name": "Bolivia (Plurinational State of)",
+		"name": "Bolivia, Plurinational State of",
 		"region": "Americas",
 		"timezones": {
 			"America/La_Paz": "-04:00"
 		},
-		"unicode_emoji": "🇧🇴"
+		"unicode_emoji": "\ud83c\udde7\ud83c\uddf4"
 	},
 	"BQ": {
 		"capital": "Kralendijk",
@@ -901,7 +901,7 @@
 		"timezones": {
 			"America/Kralendijk": "-04:00"
 		},
-		"unicode_emoji": "🇧🇼"
+		"unicode_emoji": "\ud83c\udde7\ud83c\uddf6"
 	},
 	"BR": {
 		"capital": "Brasília",
@@ -945,7 +945,7 @@
 			"America/Santarem": "-03:00",
 			"America/Sao_Paulo": "-03:00"
 		},
-		"unicode_emoji": "🇧🇷"
+		"unicode_emoji": "\ud83c\udde7\ud83c\uddf7"
 	},
 	"BS": {
 		"capital": "Nassau",
@@ -954,7 +954,7 @@
 			"name": "Bahamian dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+1242",
+		"dialling_code": "+1-242",
 		"emoji": "🇧🇸",
 		"flag": "https://restcountries.eu/data/bhs.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BS.svg",
@@ -974,7 +974,7 @@
 		"timezones": {
 			"America/Nassau": "-05:00"
 		},
-		"unicode_emoji": "🇧🇭"
+		"unicode_emoji": "\ud83c\udde7\ud83c\uddf8"
 	},
 	"BT": {
 		"capital": "Thimphu",
@@ -1003,7 +1003,7 @@
 		"timezones": {
 			"Asia/Thimphu": "+06:00"
 		},
-		"unicode_emoji": "🇧🇹"
+		"unicode_emoji": "\ud83c\udde7\ud83c\uddf9"
 	},
 	"BV": {
 		"capital": "",
@@ -1032,7 +1032,7 @@
 		"timezones": {
 			"Europe/Oslo": "+01:00"
 		},
-		"unicode_emoji": "🇧🇻"
+		"unicode_emoji": "\u1f1e\u0037\u1f1f\u0042"
 	},
 	"BW": {
 		"capital": "Gaborone",
@@ -1061,7 +1061,7 @@
 		"timezones": {
 			"Africa/Gaborone": "+02:00"
 		},
-		"unicode_emoji": "🇧🇼"
+		"unicode_emoji": "\ud83c\udde7\ud83c\uddfc"
 	},
 	"BY": {
 		"capital": "Minsk",
@@ -1090,7 +1090,7 @@
 		"timezones": {
 			"Europe/Minsk": "+03:00"
 		},
-		"unicode_emoji": "🇧🇾"
+		"unicode_emoji": "\ud83c\udde7\ud83c\uddfe"
 	},
 	"BZ": {
 		"capital": "Belmopan",
@@ -1119,7 +1119,7 @@
 		"timezones": {
 			"America/Belize": "-06:00"
 		},
-		"unicode_emoji": "🇧🇿"
+		"unicode_emoji": "\ud83c\udde7\ud83c\uddff"
 	},
 	"CA": {
 		"capital": "Ottawa",
@@ -1174,7 +1174,7 @@
 			"America/Winnipeg": "-01:00",
 			"America/Yellowknife": "±00:00"
 		},
-		"unicode_emoji": "🇨🇦"
+		"unicode_emoji": "\ud83c\udde8\ud83c\udde6"
 	},
 	"CC": {
 		"capital": "West Island",
@@ -1203,7 +1203,7 @@
 		"timezones": {
 			"Indian/Cocos": "+06:30"
 		},
-		"unicode_emoji": "🇨🇨"
+		"unicode_emoji": "\ud83c\udde8\ud83c\udde8"
 	},
 	"CD": {
 		"capital": "Kinshasa",
@@ -1227,13 +1227,13 @@
 			"name": "French",
 			"nativeName": "Français"
 		},
-		"name": "Congo (Democratic Republic of the)",
+		"name": "Congo, the Democratic Republic of the",
 		"region": "Africa",
 		"timezones": {
 			"Africa/Kinshasa": "+01:00",
 			"Africa/Lubumbashi": "+02:00"
 		},
-		"unicode_emoji": "🇨🇭"
+		"unicode_emoji": "\ud83c\udde8\ud83c\udde9"
 	},
 	"CF": {
 		"capital": "Bangui",
@@ -1262,7 +1262,7 @@
 		"timezones": {
 			"Africa/Bangui": "+01:00"
 		},
-		"unicode_emoji": "🇨🇫"
+		"unicode_emoji": "\ud83c\udde8\ud83c\uddeb"
 	},
 	"CG": {
 		"capital": "Brazzaville",
@@ -1291,7 +1291,7 @@
 		"timezones": {
 			"Africa/Brazzaville": "+01:00"
 		},
-		"unicode_emoji": "🇨🇬"
+		"unicode_emoji": "\ud83c\udde8\ud83c\uddec"
 	},
 	"CH": {
 		"capital": "Bern",
@@ -1320,7 +1320,7 @@
 		"timezones": {
 			"Europe/Zurich": "+01:00"
 		},
-		"unicode_emoji": "🇨🇭"
+		"unicode_emoji": "\ud83c\udde8\ud83c\udded"
 	},
 	"CI": {
 		"capital": "Yamoussoukro",
@@ -1344,12 +1344,12 @@
 			"name": "French",
 			"nativeName": "Français"
 		},
-		"name": "Ivory Coast",
+		"name": "Côte d'Ivoire",
 		"region": "Africa",
 		"timezones": {
 			"Africa/Abidjan": "+00:00"
 		},
-		"unicode_emoji": "🇨🇽"
+		"unicode_emoji": "\ud83c\udde8\ud83c\uddee"
 	},
 	"CK": {
 		"capital": "Avarua",
@@ -1378,7 +1378,7 @@
 		"timezones": {
 			"Pacific/Rarotonga": "-10:00"
 		},
-		"unicode_emoji": "🇨🇰"
+		"unicode_emoji": "\ud83c\udde8\ud83c\uddf0"
 	},
 	"CL": {
 		"capital": "Santiago",
@@ -1408,7 +1408,7 @@
 			"America/Santiago": "-03:00",
 			"Pacific/Easter": "-06:00"
 		},
-		"unicode_emoji": "🇨🇱"
+		"unicode_emoji": "\ud83c\udde8\ud83c\uddf1"
 	},
 	"CM": {
 		"capital": "Yaoundé",
@@ -1437,7 +1437,7 @@
 		"timezones": {
 			"Africa/Douala": "+01:00"
 		},
-		"unicode_emoji": "🇨🇲"
+		"unicode_emoji": "\ud83c\udde8\ud83c\uddf2"
 	},
 	"CN": {
 		"capital": "Beijing",
@@ -1467,7 +1467,7 @@
 			"Asia/Shanghai": "+08:00",
 			"Asia/Urumqi": "+06:00"
 		},
-		"unicode_emoji": "🇨🇳"
+		"unicode_emoji": "\ud83c\udde8\ud83c\uddf3"
 	},
 	"CO": {
 		"capital": "Bogotá",
@@ -1496,7 +1496,7 @@
 		"timezones": {
 			"America/Bogota": "-05:00"
 		},
-		"unicode_emoji": "🇨🇴"
+		"unicode_emoji": "\ud83c\udde8\ud83c\uddf4"
 	},
 	"CR": {
 		"capital": "San José",
@@ -1525,7 +1525,7 @@
 		"timezones": {
 			"America/Costa_Rica": "-06:00"
 		},
-		"unicode_emoji": "🇨🇷"
+		"unicode_emoji": "\ud83c\udde8\ud83c\uddf7"
 	},
 	"CU": {
 		"capital": "Havana",
@@ -1554,7 +1554,7 @@
 		"timezones": {
 			"America/Havana": "-05:00"
 		},
-		"unicode_emoji": "🇨🇺"
+		"unicode_emoji": "\ud83c\udde8\ud83c\uddfa"
 	},
 	"CV": {
 		"capital": "Praia",
@@ -1578,12 +1578,12 @@
 			"name": "Portuguese",
 			"nativeName": "Português"
 		},
-		"name": "Cabo Verde",
+		"name": "Cape Verde",
 		"region": "Africa",
 		"timezones": {
 			"Atlantic/Cape_Verde": "-01:00"
 		},
-		"unicode_emoji": "🇨🇻"
+		"unicode_emoji": "\ud83c\udde8\ud83c\uddfb"
 	},
 	"CW": {
 		"capital": "Willemstad",
@@ -1612,7 +1612,7 @@
 		"timezones": {
 			"America/Curacao": "-04:00"
 		},
-		"unicode_emoji": "🇨🇼"
+		"unicode_emoji": "\ud83c\udde8\ud83c\uddfc"
 	},
 	"CX": {
 		"capital": "Flying Fish Cove",
@@ -1641,7 +1641,7 @@
 		"timezones": {
 			"Indian/Christmas": "+07:00"
 		},
-		"unicode_emoji": "🇨🇽"
+		"unicode_emoji": "\ud83c\udde8\ud83c\uddfd"
 	},
 	"CY": {
 		"capital": "Nicosia",
@@ -1666,11 +1666,11 @@
 			"nativeName": "Ελληνικά"
 		},
 		"name": "Cyprus",
-		"region": "Europe",
+		"region": "Asia",
 		"timezones": {
 			"Asia/Nicosia": "+03:00"
 		},
-		"unicode_emoji": "🇨🇾"
+		"unicode_emoji": "\ud83c\udde8\ud83c\uddfe"
 	},
 	"CZ": {
 		"capital": "Prague",
@@ -1699,7 +1699,7 @@
 		"timezones": {
 			"Europe/Prague": "+02:00"
 		},
-		"unicode_emoji": "🇨🇿"
+		"unicode_emoji": "\ud83c\udde8\ud83c\uddff"
 	},
 	"DE": {
 		"capital": "Berlin",
@@ -1728,7 +1728,7 @@
 		"timezones": {
 			"Europe/Berlin": "+02:00"
 		},
-		"unicode_emoji": "🇩🇪"
+		"unicode_emoji": "\ud83c\udde9\ud83c\uddea"
 	},
 	"DJ": {
 		"capital": "Djibouti",
@@ -1757,7 +1757,7 @@
 		"timezones": {
 			"Africa/Djibouti": "+03:00"
 		},
-		"unicode_emoji": "🇩🇽"
+		"unicode_emoji": "\ud83c\udde9\ud83c\uddef"
 	},
 	"DK": {
 		"capital": "Copenhagen",
@@ -1786,7 +1786,7 @@
 		"timezones": {
 			"Europe/Copenhagen": "+02:00"
 		},
-		"unicode_emoji": "🇩🇰"
+		"unicode_emoji": "\ud83c\udde9\ud83c\uddf0"
 	},
 	"DM": {
 		"capital": "Roseau",
@@ -1795,7 +1795,7 @@
 			"name": "East Caribbean dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+1767",
+		"dialling_code": "+1-767",
 		"emoji": "🇩🇲",
 		"flag": "https://restcountries.eu/data/dma.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DM.svg",
@@ -1815,7 +1815,7 @@
 		"timezones": {
 			"America/Dominica": "-04:00"
 		},
-		"unicode_emoji": "🇩🇲"
+		"unicode_emoji": "\ud83c\udde9\ud83c\uddf2"
 	},
 	"DO": {
 		"capital": "Santo Domingo",
@@ -1824,7 +1824,7 @@
 			"name": "Dominican peso",
 			"symbol": "RD$"
 		},
-		"dialling_code": "+1809",
+		"dialling_code": "+1-809",
 		"emoji": "🇩🇴",
 		"flag": "https://restcountries.eu/data/dom.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DO.svg",
@@ -1844,7 +1844,7 @@
 		"timezones": {
 			"America/Santo_Domingo": "-04:00"
 		},
-		"unicode_emoji": "🇩🇴"
+		"unicode_emoji": "\ud83c\udde9\ud83c\uddf4"
 	},
 	"DZ": {
 		"capital": "Algiers",
@@ -1873,7 +1873,7 @@
 		"timezones": {
 			"Africa/Algiers": "+01:00"
 		},
-		"unicode_emoji": "🇩🇿"
+		"unicode_emoji": "\ud83c\udde9\ud83c\uddff"
 	},
 	"EC": {
 		"capital": "Quito",
@@ -1903,7 +1903,7 @@
 			"America/Guayaquil": "-05:00",
 			"Pacific/Galapagos": "-06:00"
 		},
-		"unicode_emoji": "🇪🇨"
+		"unicode_emoji": "\ud83c\uddea\ud83c\udde8"
 	},
 	"EE": {
 		"capital": "Tallinn",
@@ -1932,7 +1932,7 @@
 		"timezones": {
 			"Europe/Tallinn": "+03:00"
 		},
-		"unicode_emoji": "🇪🇪"
+		"unicode_emoji": "\ud83c\uddea\ud83c\uddea"
 	},
 	"EG": {
 		"capital": "Cairo",
@@ -1961,7 +1961,7 @@
 		"timezones": {
 			"Africa/Cairo": "+02:00"
 		},
-		"unicode_emoji": "🇪🇬"
+		"unicode_emoji": "\ud83c\uddea\ud83c\uddec"
 	},
 	"ER": {
 		"capital": "Asmara",
@@ -1990,7 +1990,7 @@
 		"timezones": {
 			"Africa/Asmara": "+03:00"
 		},
-		"unicode_emoji": "🇪🇷"
+		"unicode_emoji": "\ud83c\uddea\ud83c\uddf7"
 	},
 	"ES": {
 		"capital": "Madrid",
@@ -2019,7 +2019,7 @@
 		"timezones": {
 			"Europe/Madrid": "+02:00"
 		},
-		"unicode_emoji": "🇪🇸"
+		"unicode_emoji": "\ud83c\uddea\ud83c\uddf8"
 	},
 	"ET": {
 		"capital": "Addis Ababa",
@@ -2048,7 +2048,7 @@
 		"timezones": {
 			"Africa/Addis_Ababa": "+03:00"
 		},
-		"unicode_emoji": "🇪🇹"
+		"unicode_emoji": "\ud83c\uddea\ud83c\uddf9"
 	},
 	"FI": {
 		"capital": "Helsinki",
@@ -2077,7 +2077,7 @@
 		"timezones": {
 			"Europe/Helsinki": "+03:00"
 		},
-		"unicode_emoji": "🇫🇮"
+		"unicode_emoji": "\ud83c\uddeb\ud83c\uddee"
 	},
 	"FJ": {
 		"capital": "Suva",
@@ -2106,7 +2106,7 @@
 		"timezones": {
 			"Pacific/Fiji": "+12:00"
 		},
-		"unicode_emoji": "🇫🇯"
+		"unicode_emoji": "\ud83c\uddeb\ud83c\uddef"
 	},
 	"FK": {
 		"capital": "Stanley",
@@ -2135,7 +2135,7 @@
 		"timezones": {
 			"Atlantic/Stanley": "-03:00"
 		},
-		"unicode_emoji": "🇫u🇰"
+		"unicode_emoji": "\ud83c\uddeb\ud83c\uddf0"
 	},
 	"FM": {
 		"capital": "Palikir",
@@ -2159,14 +2159,14 @@
 			"name": "English",
 			"nativeName": "English"
 		},
-		"name": "Micronesia (Federated States of)",
+		"name": "Micronesia, Federated States of",
 		"region": "Oceania",
 		"timezones": {
 			"Pacific/Chuuk": "+10:00",
 			"Pacific/Kosrae": "+11:00",
 			"Pacific/Pohnpei": "+11:00"
 		},
-		"unicode_emoji": "🇫🇲"
+		"unicode_emoji": "\ud83c\uddeb\ud83c\uddf2"
 	},
 	"FO": {
 		"capital": "Tórshavn",
@@ -2195,7 +2195,7 @@
 		"timezones": {
 			"Atlantic/Faroe": "+00:00"
 		},
-		"unicode_emoji": "🇫u🇴"
+		"unicode_emoji": "\ud83c\uddeb\ud83c\uddf4"
 	},
 	"FR": {
 		"capital": "Paris",
@@ -2224,7 +2224,7 @@
 		"timezones": {
 			"Europe/Paris": "+02:00"
 		},
-		"unicode_emoji": "🇫🇷"
+		"unicode_emoji": "\ud83c\uddeb\ud83c\uddf7"
 	},
 	"GA": {
 		"capital": "Libreville",
@@ -2253,7 +2253,7 @@
 		"timezones": {
 			"Africa/Libreville": "+01:00"
 		},
-		"unicode_emoji": "🇬🇦"
+		"unicode_emoji": "\ud83c\uddec\ud83c\udde6"
 	},
 	"GB": {
 		"capital": "London",
@@ -2282,7 +2282,7 @@
 		"timezones": {
 			"Europe/London": "±00:00"
 		},
-		"unicode_emoji": "🇬🇧"
+		"unicode_emoji": "\ud83c\uddec\ud83c\udde7"
 	},
 	"GD": {
 		"capital": "St. George's",
@@ -2291,7 +2291,7 @@
 			"name": "East Caribbean dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+1473",
+		"dialling_code": "+1-473",
 		"emoji": "🇬🇩",
 		"flag": "https://restcountries.eu/data/grd.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GD.svg",
@@ -2311,7 +2311,7 @@
 		"timezones": {
 			"America/Grenada": "-04:00"
 		},
-		"unicode_emoji": "🇬🇩"
+		"unicode_emoji": "\ud83c\uddec\ud83c\udde9"
 	},
 	"GE": {
 		"capital": "Tbilisi",
@@ -2340,7 +2340,7 @@
 		"timezones": {
 			"Asia/Tbilisi": "+04:00"
 		},
-		"unicode_emoji": "🇬🇪"
+		"unicode_emoji": "\ud83c\uddec\ud83c\uddea"
 	},
 	"GF": {
 		"capital": "Cayenne",
@@ -2369,7 +2369,7 @@
 		"timezones": {
 			"America/Cayenne": "-03:00"
 		},
-		"unicode_emoji": "🇬🇫"
+		"unicode_emoji": "\ud83c\uddec\ud83c\uddeb"
 	},
 	"GG": {
 		"capital": "St. Peter Port",
@@ -2378,7 +2378,7 @@
 			"name": "British pound",
 			"symbol": "£"
 		},
-		"dialling_code": "+44",
+		"dialling_code": "+44-1481",
 		"emoji": "🇬🇬",
 		"flag": "https://restcountries.eu/data/ggy.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GG.svg",
@@ -2398,7 +2398,7 @@
 		"timezones": {
 			"Europe/Guernsey": "+01:00"
 		},
-		"unicode_emoji": "🇬🇬"
+		"unicode_emoji": "\ud83c\uddec\ud83c\uddec"
 	},
 	"GH": {
 		"capital": "Accra",
@@ -2427,7 +2427,7 @@
 		"timezones": {
 			"Africa/Accra": "+00:00"
 		},
-		"unicode_emoji": "🇬🇱"
+		"unicode_emoji": "\ud83c\uddec\ud83c\udded"
 	},
 	"GI": {
 		"capital": "Gibraltar",
@@ -2456,7 +2456,7 @@
 		"timezones": {
 			"Europe/Gibraltar": "+02:00"
 		},
-		"unicode_emoji": "🇬🇮"
+		"unicode_emoji": "\ud83c\uddec\ud83c\uddee"
 	},
 	"GL": {
 		"capital": "Nuuk",
@@ -2486,7 +2486,7 @@
 			"America/Danmarkshavn": "+00:00",
 			"America/Godthab": "-03:00"
 		},
-		"unicode_emoji": "🇬🇱"
+		"unicode_emoji": "\ud83c\uddec\ud83c\uddf1"
 	},
 	"GM": {
 		"capital": "Banjul",
@@ -2515,7 +2515,7 @@
 		"timezones": {
 			"Africa/Banjul": "+00:00"
 		},
-		"unicode_emoji": "🇬🇲"
+		"unicode_emoji": "\ud83c\uddec\ud83c\uddf2"
 	},
 	"GN": {
 		"capital": "Conakry",
@@ -2544,7 +2544,7 @@
 		"timezones": {
 			"Africa/Conakry": "+00:00"
 		},
-		"unicode_emoji": "🇬🇳"
+		"unicode_emoji": "\ud83c\uddec\ud83c\uddf3"
 	},
 	"GP": {
 		"capital": "Basse-Terre",
@@ -2573,7 +2573,7 @@
 		"timezones": {
 			"America/Guadeloupe": "-04:00"
 		},
-		"unicode_emoji": "🇬🇵"
+		"unicode_emoji": "\ud83c\uddec\ud83c\uddf5"
 	},
 	"GQ": {
 		"capital": "Malabo",
@@ -2602,7 +2602,7 @@
 		"timezones": {
 			"Africa/Malabo": "+01:00"
 		},
-		"unicode_emoji": "🇬🇶"
+		"unicode_emoji": "\ud83c\uddec\ud83c\uddf6"
 	},
 	"GR": {
 		"capital": "Athens",
@@ -2631,7 +2631,7 @@
 		"timezones": {
 			"Europe/Athens": "+03:00"
 		},
-		"unicode_emoji": "🇬🇷"
+		"unicode_emoji": "\ud83c\uddec\ud83c\uddf7"
 	},
 	"GS": {
 		"capital": "King Edward Point",
@@ -2640,7 +2640,7 @@
 			"name": "British pound",
 			"symbol": "£"
 		},
-		"dialling_code": "+500",
+		"dialling_code": "+",
 		"emoji": "🇬🇸",
 		"flag": "https://restcountries.eu/data/sgs.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GS.svg",
@@ -2660,7 +2660,7 @@
 		"timezones": {
 			"Atlantic/South_Georgia": "-02:00"
 		},
-		"unicode_emoji": "🇬🇸"
+		"unicode_emoji": "\ud83c\uddec\ud83c\uddf8"
 	},
 	"GT": {
 		"capital": "Guatemala City",
@@ -2689,7 +2689,7 @@
 		"timezones": {
 			"America/Guatemala": "-06:00"
 		},
-		"unicode_emoji": "🇬🇹"
+		"unicode_emoji": "\ud83c\uddec\ud83c\uddf9"
 	},
 	"GU": {
 		"capital": "Hagåtña",
@@ -2698,7 +2698,7 @@
 			"name": "United States dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+1671",
+		"dialling_code": "+1-671",
 		"emoji": "🇬🇺",
 		"flag": "https://restcountries.eu/data/gum.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GU.svg",
@@ -2718,7 +2718,7 @@
 		"timezones": {
 			"Pacific/Guam": "+10:00"
 		},
-		"unicode_emoji": "🇬🇺"
+		"unicode_emoji": "\ud83c\uddec\ud83c\uddfa"
 	},
 	"GW": {
 		"capital": "Bissau",
@@ -2747,7 +2747,7 @@
 		"timezones": {
 			"Africa/Bissau": "+00:00"
 		},
-		"unicode_emoji": "🇬🇼"
+		"unicode_emoji": "\ud83c\uddec\ud83c\uddfc"
 	},
 	"GY": {
 		"capital": "Georgetown",
@@ -2776,7 +2776,7 @@
 		"timezones": {
 			"America/Guyana": "-04:00"
 		},
-		"unicode_emoji": "🇬🇾"
+		"unicode_emoji": "\ud83c\uddec\ud83c\uddfe"
 	},
 	"HK": {
 		"capital": "City of Victoria",
@@ -2805,7 +2805,7 @@
 		"timezones": {
 			"Asia/Hong_Kong": "+08:00"
 		},
-		"unicode_emoji": "🇬🇰"
+		"unicode_emoji": "\ud83c\udded\ud83c\uddf0"
 	},
 	"HN": {
 		"capital": "Tegucigalpa",
@@ -2834,7 +2834,7 @@
 		"timezones": {
 			"America/Tegucigalpa": "-06:00"
 		},
-		"unicode_emoji": "🇭🇳"
+		"unicode_emoji": "\ud83c\udded\ud83c\uddf3"
 	},
 	"HR": {
 		"capital": "Zagreb",
@@ -2863,7 +2863,7 @@
 		"timezones": {
 			"Europe/Zagreb": "+02:00"
 		},
-		"unicode_emoji": "🇮🇭"
+		"unicode_emoji": "\ud83c\udded\ud83c\uddf7"
 	},
 	"HT": {
 		"capital": "Port-au-Prince",
@@ -2892,7 +2892,7 @@
 		"timezones": {
 			"America/Port-au-Prince": "-05:00"
 		},
-		"unicode_emoji": "🇭🇹"
+		"unicode_emoji": "\ud83c\udded\ud83c\uddf9"
 	},
 	"HU": {
 		"capital": "Budapest",
@@ -2921,7 +2921,7 @@
 		"timezones": {
 			"Europe/Budapest": "+02:00"
 		},
-		"unicode_emoji": "🇭🇺"
+		"unicode_emoji": "\ud83c\udded\ud83c\uddfa"
 	},
 	"ID": {
 		"capital": "Jakarta",
@@ -2953,7 +2953,7 @@
 			"Asia/Makassar": "+08:00",
 			"Asia/Pontianak": "+07:00"
 		},
-		"unicode_emoji": "🇮🇩"
+		"unicode_emoji": "\ud83c\uddee\ud83c\udde9"
 	},
 	"IE": {
 		"capital": "Dublin",
@@ -2982,7 +2982,7 @@
 		"timezones": {
 			"Europe/Dublin": "+01:00"
 		},
-		"unicode_emoji": "🇮🇪"
+		"unicode_emoji": "\ud83c\uddee\ud83c\uddea"
 	},
 	"IL": {
 		"capital": "Jerusalem",
@@ -3011,7 +3011,7 @@
 		"timezones": {
 			"Asia/Jerusalem": "+03:00"
 		},
-		"unicode_emoji": "🇮🇱"
+		"unicode_emoji": "\ud83c\uddee\ud83c\uddf1"
 	},
 	"IM": {
 		"capital": "Douglas",
@@ -3020,7 +3020,7 @@
 			"name": "British pound",
 			"symbol": "£"
 		},
-		"dialling_code": "+44",
+		"dialling_code": "+44-1624",
 		"emoji": "🇮🇲",
 		"flag": "https://restcountries.eu/data/imn.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IM.svg",
@@ -3040,7 +3040,7 @@
 		"timezones": {
 			"Europe/Isle_of_Man": "+01:00"
 		},
-		"unicode_emoji": "🇮🇢"
+		"unicode_emoji": "\ud83c\uddee\ud83c\uddf2"
 	},
 	"IN": {
 		"capital": "New Delhi",
@@ -3069,7 +3069,7 @@
 		"timezones": {
 			"Asia/Kolkata": "+05:30"
 		},
-		"unicode_emoji": "🇮🇳"
+		"unicode_emoji": "\ud83c\uddee\ud83c\uddf3"
 	},
 	"IO": {
 		"capital": "Diego Garcia",
@@ -3098,7 +3098,7 @@
 		"timezones": {
 			"Indian/Chagos": "+06:00"
 		},
-		"unicode_emoji": "🇮🇴"
+		"unicode_emoji": "\ud83c\uddee\ud83c\uddf4"
 	},
 	"IQ": {
 		"capital": "Baghdad",
@@ -3127,7 +3127,7 @@
 		"timezones": {
 			"Asia/Baghdad": "+03:00"
 		},
-		"unicode_emoji": "🇮🇶"
+		"unicode_emoji": "\ud83c\uddee\ud83c\uddf6"
 	},
 	"IR": {
 		"capital": "Tehran",
@@ -3151,12 +3151,12 @@
 			"name": "Persian (Farsi)",
 			"nativeName": "فارسی"
 		},
-		"name": "Iran (Islamic Republic of)",
+		"name": "Iran, Islamic Republic of",
 		"region": "Asia",
 		"timezones": {
 			"Asia/Tehran": "+03:30"
 		},
-		"unicode_emoji": "🇮🇷"
+		"unicode_emoji": "\ud83c\uddee\ud83c\uddf7"
 	},
 	"IS": {
 		"capital": "Reykjavik",
@@ -3185,7 +3185,7 @@
 		"timezones": {
 			"Atlantic/Reykjavik": "+00:00"
 		},
-		"unicode_emoji": "🇮🇸"
+		"unicode_emoji": "\ud83c\uddee\ud83c\uddf8"
 	},
 	"IT": {
 		"capital": "Rome",
@@ -3214,7 +3214,7 @@
 		"timezones": {
 			"Europe/Rome": "+02:00"
 		},
-		"unicode_emoji": "🇮🇹"
+		"unicode_emoji": "\ud83c\uddee\ud83c\uddf9"
 	},
 	"JE": {
 		"capital": "Saint Helier",
@@ -3223,7 +3223,7 @@
 			"name": "British pound",
 			"symbol": "£"
 		},
-		"dialling_code": "+44",
+		"dialling_code": "+44-1534",
 		"emoji": "🇯🇪",
 		"flag": "https://restcountries.eu/data/jey.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JE.svg",
@@ -3243,7 +3243,7 @@
 		"timezones": {
 			"Europe/Jersey": "+01:00"
 		},
-		"unicode_emoji": "🇯🇪"
+		"unicode_emoji": "\ud83c\uddef\ud83c\uddea"
 	},
 	"JM": {
 		"capital": "Kingston",
@@ -3252,7 +3252,7 @@
 			"name": "Jamaican dollar",
 			"symbol": "J$"
 		},
-		"dialling_code": "+1876",
+		"dialling_code": "+1-876",
 		"emoji": "🇯🇲",
 		"flag": "https://restcountries.eu/data/jam.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JM.svg",
@@ -3272,7 +3272,7 @@
 		"timezones": {
 			"America/Jamaica": "-05:00"
 		},
-		"unicode_emoji": "🇯🇲"
+		"unicode_emoji": "\ud83c\uddef\ud83c\uddf2"
 	},
 	"JO": {
 		"capital": "Amman",
@@ -3301,7 +3301,7 @@
 		"timezones": {
 			"Asia/Amman": "+03:00"
 		},
-		"unicode_emoji": "🇯🇴"
+		"unicode_emoji": "\ud83c\uddef\ud83c\uddf4"
 	},
 	"JP": {
 		"capital": "Tokyo",
@@ -3330,7 +3330,7 @@
 		"timezones": {
 			"Asia/Tokyo": "+09:00"
 		},
-		"unicode_emoji": "🇯🇵"
+		"unicode_emoji": "\ud83c\uddef\ud83c\uddf5"
 	},
 	"KE": {
 		"capital": "Nairobi",
@@ -3359,7 +3359,7 @@
 		"timezones": {
 			"Africa/Nairobi": "+03:00"
 		},
-		"unicode_emoji": "🇰🇪"
+		"unicode_emoji": "\ud83c\uddf0\ud83c\uddea"
 	},
 	"KG": {
 		"capital": "Bishkek",
@@ -3388,7 +3388,7 @@
 		"timezones": {
 			"Asia/Bishkek": "+06:00"
 		},
-		"unicode_emoji": "🇰🇬"
+		"unicode_emoji": "\ud83c\uddf0\ud83c\uddec"
 	},
 	"KH": {
 		"capital": "Phnom Penh",
@@ -3417,7 +3417,7 @@
 		"timezones": {
 			"Asia/Phnom_Penh": "+07:00"
 		},
-		"unicode_emoji": "🇰🇭"
+		"unicode_emoji": "\ud83c\uddf0\ud83c\udded"
 	},
 	"KI": {
 		"capital": "South Tarawa",
@@ -3447,7 +3447,7 @@
 			"Pacific/Kiritimati": "+14:00",
 			"Pacific/Tarawa": "+12:00"
 		},
-		"unicode_emoji": "🇰🇮"
+		"unicode_emoji": "\ud83c\uddf0\ud83c\uddee"
 	},
 	"KM": {
 		"capital": "Moroni",
@@ -3459,7 +3459,7 @@
 		"dialling_code": "+269",
 		"emoji": "🇰🇲",
 		"flag": "https://restcountries.eu/data/com.svg",
-		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CM.svg",
+		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KM.svg",
 		"iso": {
 			"alpha-2": "KM",
 			"alpha-3": "COM",
@@ -3476,7 +3476,7 @@
 		"timezones": {
 			"Indian/Comoro": "+03:00"
 		},
-		"unicode_emoji": "🇰🇲"
+		"unicode_emoji": "\ud83c\uddf0\ud83c\uddf2"
 	},
 	"KN": {
 		"capital": "Basseterre",
@@ -3485,7 +3485,7 @@
 			"name": "East Caribbean dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+1869",
+		"dialling_code": "+1-869",
 		"emoji": "🇰🇳",
 		"flag": "https://restcountries.eu/data/kna.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KN.svg",
@@ -3505,7 +3505,7 @@
 		"timezones": {
 			"America/St_Kitts": "-04:00"
 		},
-		"unicode_emoji": "🇰🇳"
+		"unicode_emoji": "\ud83c\uddf0\ud83c\uddf3"
 	},
 	"KP": {
 		"capital": "Pyongyang",
@@ -3529,12 +3529,12 @@
 			"name": "Korean",
 			"nativeName": "한국어"
 		},
-		"name": "Korea (Democratic People's Republic of)",
+		"name": "Korea, Democratic People's Republic of",
 		"region": "Asia",
 		"timezones": {
 			"Asia/Pyongyang": "+09:00"
 		},
-		"unicode_emoji": "🇰🇵"
+		"unicode_emoji": "\ud83c\uddf0\ud83c\uddf5"
 	},
 	"KR": {
 		"capital": "Seoul",
@@ -3558,12 +3558,12 @@
 			"name": "Korean",
 			"nativeName": "한국어"
 		},
-		"name": "Korea (Republic of)",
+		"name": "Korea, Republic of",
 		"region": "Asia",
 		"timezones": {
 			"Asia/Seoul": "+09:00"
 		},
-		"unicode_emoji": "🇰🇷"
+		"unicode_emoji": "\ud83c\uddf0\ud83c\uddf7"
 	},
 	"KW": {
 		"capital": "Kuwait City",
@@ -3592,7 +3592,7 @@
 		"timezones": {
 			"Asia/Kuwait": "+03:00"
 		},
-		"unicode_emoji": "🇰🇼"
+		"unicode_emoji": "\ud83c\uddf0\ud83c\uddfc"
 	},
 	"KY": {
 		"capital": "George Town",
@@ -3601,7 +3601,7 @@
 			"name": "Cayman Islands dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+1345",
+		"dialling_code": "+1-345",
 		"emoji": "🇰🇾",
 		"flag": "https://restcountries.eu/data/cym.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KY.svg",
@@ -3621,7 +3621,7 @@
 		"timezones": {
 			"America/Cayman": "-05:00"
 		},
-		"unicode_emoji": "🇾🇩"
+		"unicode_emoji": "\ud83c\uddf0\ud83c\uddfe"
 	},
 	"KZ": {
 		"capital": "Nur-Sultan",
@@ -3655,7 +3655,7 @@
 			"Asia/Oral": "+05:00",
 			"Asia/Qyzylorda": "+05:00"
 		},
-		"unicode_emoji": "🇰🇿"
+		"unicode_emoji": "\ud83c\uddf0\ud83c\uddff"
 	},
 	"LA": {
 		"capital": "Vientiane",
@@ -3684,7 +3684,7 @@
 		"timezones": {
 			"Asia/Vientiane": "+07:00"
 		},
-		"unicode_emoji": "🇱🇦"
+		"unicode_emoji": "\ud83c\uddf1\ud83c\udde6"
 	},
 	"LB": {
 		"capital": "Beirut",
@@ -3713,7 +3713,7 @@
 		"timezones": {
 			"Asia/Beirut": "+02:00"
 		},
-		"unicode_emoji": "🇱🇧"
+		"unicode_emoji": "\ud83c\uddf1\ud83c\udde7"
 	},
 	"LC": {
 		"capital": "Castries",
@@ -3722,7 +3722,7 @@
 			"name": "East Caribbean dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+1758",
+		"dialling_code": "+1-758",
 		"emoji": "🇱🇨",
 		"flag": "https://restcountries.eu/data/lca.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LC.svg",
@@ -3742,7 +3742,7 @@
 		"timezones": {
 			"America/St_Lucia": "-04:00"
 		},
-		"unicode_emoji": "🇱�촄"
+		"unicode_emoji": "\ud83c\uddf1\ud83c\udde8"
 	},
 	"LI": {
 		"capital": "Vaduz",
@@ -3771,7 +3771,7 @@
 		"timezones": {
 			"Europe/Vaduz": "+02:00"
 		},
-		"unicode_emoji": "🇱🇮"
+		"unicode_emoji": "\ud83c\uddf1\ud83c\uddee"
 	},
 	"LK": {
 		"capital": "Colombo",
@@ -3800,7 +3800,7 @@
 		"timezones": {
 			"Asia/Colombo": "+05:30"
 		},
-		"unicode_emoji": "🇱🇰"
+		"unicode_emoji": "\ud83c\uddf1\ud83c\uddf0"
 	},
 	"LR": {
 		"capital": "Monrovia",
@@ -3829,7 +3829,7 @@
 		"timezones": {
 			"Africa/Monrovia": "±00:00"
 		},
-		"unicode_emoji": "🇱🇷"
+		"unicode_emoji": "\ud83c\uddf1\ud83c\uddf7"
 	},
 	"LS": {
 		"capital": "Maseru",
@@ -3858,7 +3858,7 @@
 		"timezones": {
 			"Africa/Maseru": "+02:00"
 		},
-		"unicode_emoji": "🇱🇸"
+		"unicode_emoji": "\ud83c\uddf1\ud83c\uddf8"
 	},
 	"LT": {
 		"capital": "Vilnius",
@@ -3887,7 +3887,7 @@
 		"timezones": {
 			"Europe/Vilnius": "+03:00"
 		},
-		"unicode_emoji": "🇱🇹"
+		"unicode_emoji": "\ud83c\uddf1\ud83c\uddf9"
 	},
 	"LU": {
 		"capital": "Luxembourg City",
@@ -3916,7 +3916,7 @@
 		"timezones": {
 			"Europe/Luxembourg": "+02:00"
 		},
-		"unicode_emoji": "🇱🇺"
+		"unicode_emoji": "\ud83c\uddf1\ud83c\uddfa"
 	},
 	"LV": {
 		"capital": "Riga",
@@ -3945,7 +3945,7 @@
 		"timezones": {
 			"Europe/Riga": "+03:00"
 		},
-		"unicode_emoji": "🇱🇻"
+		"unicode_emoji": "\ud83c\uddf1\ud83c\uddfb"
 	},
 	"LY": {
 		"capital": "Tripoli",
@@ -3974,7 +3974,7 @@
 		"timezones": {
 			"Africa/Tripoli": "+02:00"
 		},
-		"unicode_emoji": "🇱🇾"
+		"unicode_emoji": "\ud83c\uddf1\ud83c\uddfe"
 	},
 	"MA": {
 		"capital": "Rabat",
@@ -4003,7 +4003,7 @@
 		"timezones": {
 			"Africa/Casablanca": "+00:00"
 		},
-		"unicode_emoji": "🇲🇭"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\udde6"
 	},
 	"MC": {
 		"capital": "Monaco",
@@ -4032,7 +4032,7 @@
 		"timezones": {
 			"Europe/Monaco": "+02:00"
 		},
-		"unicode_emoji": "🇲🇨"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\udde8"
 	},
 	"MD": {
 		"capital": "Chișinău",
@@ -4056,12 +4056,12 @@
 			"name": "Romanian",
 			"nativeName": "Română"
 		},
-		"name": "Moldova (Republic of)",
+		"name": "Moldova, Republic of",
 		"region": "Europe",
 		"timezones": {
 			"Europe/Chisinau": "+02:00"
 		},
-		"unicode_emoji": "🇲🇩"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\udde9"
 	},
 	"ME": {
 		"capital": "Podgorica",
@@ -4090,7 +4090,7 @@
 		"timezones": {
 			"Europe/Podgorica": "+02:00"
 		},
-		"unicode_emoji": "🇲🇪"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\uddea"
 	},
 	"MF": {
 		"capital": "Marigot",
@@ -4119,7 +4119,7 @@
 		"timezones": {
 			"America/Marigot": "-04:00"
 		},
-		"unicode_emoji": "🇲🇫"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\uddeb"
 	},
 	"MG": {
 		"capital": "Antananarivo",
@@ -4148,7 +4148,7 @@
 		"timezones": {
 			"Indian/Antananarivo": "±00:00"
 		},
-		"unicode_emoji": "🇲🇬"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\uddec"
 	},
 	"MH": {
 		"capital": "Majuro",
@@ -4178,7 +4178,7 @@
 			"Pacific/Kwajalein": "+12:00",
 			"Pacific/Majuro": "+12:00"
 		},
-		"unicode_emoji": "🇲🇭"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\udded"
 	},
 	"MK": {
 		"capital": "Skopje",
@@ -4202,12 +4202,12 @@
 			"name": "Macedonian",
 			"nativeName": "македонски јазик"
 		},
-		"name": "North Macedonia",
+		"name": "Macedonia, the Former Yugoslav Republic of",
 		"region": "Europe",
 		"timezones": {
 			"Europe/Skopje": "+02:00"
 		},
-		"unicode_emoji": "🇲🇰"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\uddf0"
 	},
 	"ML": {
 		"capital": "Bamako",
@@ -4236,7 +4236,7 @@
 		"timezones": {
 			"Africa/Bamako": "±00:00"
 		},
-		"unicode_emoji": "🇲🇱"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\uddf1"
 	},
 	"MM": {
 		"capital": "Naypyidaw",
@@ -4265,7 +4265,7 @@
 		"timezones": {
 			"Asia/Yangon": "+06:30"
 		},
-		"unicode_emoji": "🇲🇲"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\uddf2"
 	},
 	"MN": {
 		"capital": "Ulan Bator",
@@ -4294,7 +4294,7 @@
 		"timezones": {
 			"Asia/Ulaanbaatar": "+08:00"
 		},
-		"unicode_emoji": "🇲🇳"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\uddf3"
 	},
 	"MO": {
 		"capital": "Macao",
@@ -4323,7 +4323,7 @@
 		"timezones": {
 			"Asia/Macau": "+08:00"
 		},
-		"unicode_emoji": "🇲🇼"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\uddf4"
 	},
 	"MP": {
 		"capital": "Saipan",
@@ -4332,7 +4332,7 @@
 			"name": "United States dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+1670",
+		"dialling_code": "+1-670",
 		"emoji": "🇲🇵",
 		"flag": "https://restcountries.eu/data/mnp.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MP.svg",
@@ -4352,7 +4352,7 @@
 		"timezones": {
 			"Pacific/Saipan": "+10:00"
 		},
-		"unicode_emoji": "🇲🇵"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\uddf5"
 	},
 	"MQ": {
 		"capital": "Fort-de-France",
@@ -4381,7 +4381,7 @@
 		"timezones": {
 			"America/Martinique": "-04:00"
 		},
-		"unicode_emoji": "🇲🇶"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\uddf6"
 	},
 	"MR": {
 		"capital": "Nouakchott",
@@ -4410,7 +4410,7 @@
 		"timezones": {
 			"Africa/Nouakchott": "±00:00"
 		},
-		"unicode_emoji": "🇲🇷"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\uddf7"
 	},
 	"MS": {
 		"capital": "Plymouth",
@@ -4419,7 +4419,7 @@
 			"name": "East Caribbean dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+1664",
+		"dialling_code": "+1-664",
 		"emoji": "🇲🇸",
 		"flag": "https://restcountries.eu/data/msr.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MS.svg",
@@ -4439,7 +4439,7 @@
 		"timezones": {
 			"America/Montserrat": "±00:00"
 		},
-		"unicode_emoji": "🇲🇸"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\uddf8"
 	},
 	"MT": {
 		"capital": "Valletta",
@@ -4468,7 +4468,7 @@
 		"timezones": {
 			"Europe/Malta": "+01:00"
 		},
-		"unicode_emoji": "🇲🇹"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\uddf9"
 	},
 	"MU": {
 		"capital": "Port Louis",
@@ -4497,7 +4497,7 @@
 		"timezones": {
 			"Indian/Mauritius": "+04:00"
 		},
-		"unicode_emoji": "🇲🇺"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\uddfa"
 	},
 	"MV": {
 		"capital": "Malé",
@@ -4526,7 +4526,7 @@
 		"timezones": {
 			"Indian/Maldives": "+05:00"
 		},
-		"unicode_emoji": "🇲🇻"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\uddfb"
 	},
 	"MW": {
 		"capital": "Lilongwe",
@@ -4555,7 +4555,7 @@
 		"timezones": {
 			"Africa/Blantyre": "+02:00"
 		},
-		"unicode_emoji": "🇲🇼"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\uddfc"
 	},
 	"MX": {
 		"capital": "Mexico City",
@@ -4584,7 +4584,7 @@
 		"timezones": {
 			"America/Mexico_City": "±00:00"
 		},
-		"unicode_emoji": "🇲🇽"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\uddfd"
 	},
 	"MY": {
 		"capital": "Kuala Lumpur",
@@ -4613,7 +4613,7 @@
 		"timezones": {
 			"Asia/Kuala_Lumpur": "+08:00"
 		},
-		"unicode_emoji": "🇲🇾"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\uddfe"
 	},
 	"MZ": {
 		"capital": "Maputo",
@@ -4642,7 +4642,7 @@
 		"timezones": {
 			"Africa/Maputo": "+02:00"
 		},
-		"unicode_emoji": "🇲🇿"
+		"unicode_emoji": "\ud83c\uddf2\ud83c\uddff"
 	},
 	"NA": {
 		"capital": "Windhoek",
@@ -4671,7 +4671,7 @@
 		"timezones": {
 			"Africa/Windhoek": "+01:00"
 		},
-		"unicode_emoji": "🇳🇦"
+		"unicode_emoji": "\ud83c\uddf3\ud83c\udde6"
 	},
 	"NC": {
 		"capital": "Nouméa",
@@ -4700,7 +4700,7 @@
 		"timezones": {
 			"Pacific/Noumea": "+11:00"
 		},
-		"unicode_emoji": "🇳🇨"
+		"unicode_emoji": "\ud83c\uddf3\ud83c\udde8"
 	},
 	"NE": {
 		"capital": "Niamey",
@@ -4729,7 +4729,7 @@
 		"timezones": {
 			"Africa/Niamey": "±00:00"
 		},
-		"unicode_emoji": "🇳🇪"
+		"unicode_emoji": "\ud83c\uddf3\ud83c\uddea"
 	},
 	"NF": {
 		"capital": "Kingston",
@@ -4758,7 +4758,7 @@
 		"timezones": {
 			"Pacific/Norfolk": "+11:30"
 		},
-		"unicode_emoji": "🇳🇫"
+		"unicode_emoji": "\ud83c\uddf3\ud83c\uddeb"
 	},
 	"NG": {
 		"capital": "Abuja",
@@ -4787,7 +4787,7 @@
 		"timezones": {
 			"Africa/Lagos": "+01:00"
 		},
-		"unicode_emoji": "🇳🇬"
+		"unicode_emoji": "\ud83c\uddf3\ud83c\uddec"
 	},
 	"NI": {
 		"capital": "Managua",
@@ -4816,7 +4816,7 @@
 		"timezones": {
 			"America/Managua": "-06:00"
 		},
-		"unicode_emoji": "🇳🇮"
+		"unicode_emoji": "\ud83c\uddf3\ud83c\uddee"
 	},
 	"NL": {
 		"capital": "Amsterdam",
@@ -4845,7 +4845,7 @@
 		"timezones": {
 			"Europe/Amsterdam": "+02:00"
 		},
-		"unicode_emoji": "🇳🇱"
+		"unicode_emoji": "\ud83c\uddf3\ud83c\uddf1"
 	},
 	"NO": {
 		"capital": "Oslo",
@@ -4874,7 +4874,7 @@
 		"timezones": {
 			"Europe/Oslo": "+02:00"
 		},
-		"unicode_emoji": "🇳🇴"
+		"unicode_emoji": "\ud83c\uddf3\ud83c\uddf4"
 	},
 	"NP": {
 		"capital": "Kathmandu",
@@ -4903,7 +4903,7 @@
 		"timezones": {
 			"Asia/Kathmandu": "+05:45"
 		},
-		"unicode_emoji": "🇳🇵"
+		"unicode_emoji": "\ud83c\uddf3\ud83c\uddf5"
 	},
 	"NR": {
 		"capital": "Yaren",
@@ -4932,7 +4932,7 @@
 		"timezones": {
 			"Pacific/Nauru": "+12:00"
 		},
-		"unicode_emoji": "🇳🇷"
+		"unicode_emoji": "\ud83c\uddf3\ud83c\uddf7"
 	},
 	"NU": {
 		"capital": "Alofi",
@@ -4961,7 +4961,7 @@
 		"timezones": {
 			"Pacific/Niue": "-11:00"
 		},
-		"unicode_emoji": "🇳🇺"
+		"unicode_emoji": "\ud83c\uddf3\ud83c\uddfa"
 	},
 	"NZ": {
 		"capital": "Wellington",
@@ -4991,7 +4991,7 @@
 			"Pacific/Auckland": "+12:00",
 			"Pacific/Chatham": "+12:45"
 		},
-		"unicode_emoji": "🇳🇿"
+		"unicode_emoji": "\ud83c\uddf3\ud83c\uddff"
 	},
 	"OM": {
 		"capital": "Muscat",
@@ -5020,7 +5020,7 @@
 		"timezones": {
 			"Asia/Muscat": "+04:00"
 		},
-		"unicode_emoji": "🇴🇲"
+		"unicode_emoji": "\ud83c\uddf4\ud83c\uddf2"
 	},
 	"PA": {
 		"capital": "Panama City",
@@ -5049,7 +5049,7 @@
 		"timezones": {
 			"America/Panama": "-05:00"
 		},
-		"unicode_emoji": "🇵🇦"
+		"unicode_emoji": "\ud83c\uddf5\ud83c\udde6"
 	},
 	"PE": {
 		"capital": "Lima",
@@ -5078,7 +5078,7 @@
 		"timezones": {
 			"America/Lima": "-05:00"
 		},
-		"unicode_emoji": "🇵🇪"
+		"unicode_emoji": "\ud83c\uddf5\ud83c\uddea"
 	},
 	"PF": {
 		"capital": "Papeetē",
@@ -5109,7 +5109,7 @@
 			"Pacific/Marquesas": "-09:30",
 			"Pacific/Tahiti": "-10:00"
 		},
-		"unicode_emoji": "🇵🇫"
+		"unicode_emoji": "\ud83c\uddf5\ud83c\uddeb"
 	},
 	"PG": {
 		"capital": "Port Moresby",
@@ -5138,7 +5138,7 @@
 		"timezones": {
 			"Pacific/Port_Moresby": "+10:00"
 		},
-		"unicode_emoji": "🇵🇬"
+		"unicode_emoji": "\ud83c\uddf5\ud83c\uddec"
 	},
 	"PH": {
 		"capital": "Manila",
@@ -5167,7 +5167,7 @@
 		"timezones": {
 			"Asia/Manila": "+08:00"
 		},
-		"unicode_emoji": "🇵🇭"
+		"unicode_emoji": "\ud83c\uddf5\ud83c\udded"
 	},
 	"PK": {
 		"capital": "Islamabad",
@@ -5196,7 +5196,7 @@
 		"timezones": {
 			"Asia/Karachi": "+05:00"
 		},
-		"unicode_emoji": "🇵🇰"
+		"unicode_emoji": "\ud83c\uddf5\ud83c\uddf0"
 	},
 	"PL": {
 		"capital": "Warsaw",
@@ -5225,7 +5225,7 @@
 		"timezones": {
 			"Europe/Warsaw": "+02:00"
 		},
-		"unicode_emoji": "🇵🇱"
+		"unicode_emoji": "\ud83c\uddf5\ud83c\uddf1"
 	},
 	"PM": {
 		"capital": "Saint-Pierre",
@@ -5254,7 +5254,7 @@
 		"timezones": {
 			"America/Miquelon": "-03:00"
 		},
-		"unicode_emoji": "🇵🇲"
+		"unicode_emoji": "\ud83c\uddf5\ud83c\uddf2"
 	},
 	"PN": {
 		"capital": "Adamstown",
@@ -5263,7 +5263,7 @@
 			"name": "New Zealand dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+64",
+		"dialling_code": "+870",
 		"emoji": "🇵🇳",
 		"flag": "https://restcountries.eu/data/pcn.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PN.svg",
@@ -5283,7 +5283,7 @@
 		"timezones": {
 			"Pacific/Pitcairn": "-08:00"
 		},
-		"unicode_emoji": "🇵🇳"
+		"unicode_emoji": "\ud83c\uddf5\ud83c\uddf3"
 	},
 	"PR": {
 		"capital": "San Juan",
@@ -5292,7 +5292,7 @@
 			"name": "United States dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+1",
+		"dialling_code": "+1-787",
 		"emoji": "🇵🇷",
 		"flag": "https://restcountries.eu/data/pri.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PR.svg",
@@ -5312,7 +5312,7 @@
 		"timezones": {
 			"America/Puerto_Rico": "-04:00"
 		},
-		"unicode_emoji": "🇵🇷"
+		"unicode_emoji": "\ud83c\uddf5\ud83c\uddf7"
 	},
 	"PS": {
 		"capital": "Ramallah",
@@ -5342,7 +5342,7 @@
 			"Asia/Gaza": "+03:00",
 			"Asia/Hebron": "+03:00"
 		},
-		"unicode_emoji": "🇵🇸"
+		"unicode_emoji": "\ud83c\uddf5\ud83c\uddf8"
 	},
 	"PT": {
 		"capital": "Lisbon",
@@ -5371,7 +5371,7 @@
 		"timezones": {
 			"Europe/Lisbon": "+01:00"
 		},
-		"unicode_emoji": "🇵🇹"
+		"unicode_emoji": "\ud83c\uddf5\ud83c\uddf9"
 	},
 	"PW": {
 		"capital": "Ngerulmud",
@@ -5400,7 +5400,7 @@
 		"timezones": {
 			"Pacific/Palau": "+09:00"
 		},
-		"unicode_emoji": "🇵🇼"
+		"unicode_emoji": "\ud83c\uddf5\ud83c\uddfc"
 	},
 	"PY": {
 		"capital": "Asunción",
@@ -5429,7 +5429,7 @@
 		"timezones": {
 			"America/Asuncion": "-04:00"
 		},
-		"unicode_emoji": "🇵🇾"
+		"unicode_emoji": "\ud83c\uddf5\ud83c\uddfe"
 	},
 	"QA": {
 		"capital": "Doha",
@@ -5458,7 +5458,7 @@
 		"timezones": {
 			"Asia/Qatar": "+03:00"
 		},
-		"unicode_emoji": "🇶🇦"
+		"unicode_emoji": "\ud83c\uddf6\ud83c\udde6"
 	},
 	"RE": {
 		"capital": "Saint-Denis",
@@ -5487,7 +5487,7 @@
 		"timezones": {
 			"Indian/Reunion": "+04:00"
 		},
-		"unicode_emoji": "🇷🇪"
+		"unicode_emoji": "\ud83c\uddf7\ud83c\uddea"
 	},
 	"RO": {
 		"capital": "Bucharest",
@@ -5516,7 +5516,7 @@
 		"timezones": {
 			"Europe/Bucharest": "+03:00"
 		},
-		"unicode_emoji": "🇷🇴"
+		"unicode_emoji": "\ud83c\uddf7\ud83c\uddf4"
 	},
 	"RS": {
 		"capital": "Belgrade",
@@ -5545,7 +5545,7 @@
 		"timezones": {
 			"Europe/Belgrade": "+02:00"
 		},
-		"unicode_emoji": "🇷🇸"
+		"unicode_emoji": "\ud83c\uddf7\ud83c\uddf8"
 	},
 	"RU": {
 		"capital": "Moscow",
@@ -5584,7 +5584,7 @@
 			"Europe/Moscow": "+03:00",
 			"Europe/Samara": "+04:00"
 		},
-		"unicode_emoji": "🇷🇺"
+		"unicode_emoji": "\ud83c\uddf7\ud83c\uddfa"
 	},
 	"RW": {
 		"capital": "Kigali",
@@ -5613,7 +5613,7 @@
 		"timezones": {
 			"Africa/Kigali": "+02:00"
 		},
-		"unicode_emoji": "🇷🇼"
+		"unicode_emoji": "\ud83c\uddf7\ud83c\uddfc"
 	},
 	"SA": {
 		"capital": "Riyadh",
@@ -5642,7 +5642,7 @@
 		"timezones": {
 			"Asia/Riyadh": "+03:00"
 		},
-		"unicode_emoji": "🇸🇞"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\udde6"
 	},
 	"SB": {
 		"capital": "Honiara",
@@ -5671,7 +5671,7 @@
 		"timezones": {
 			"Pacific/Guadalcanal": "+11:00"
 		},
-		"unicode_emoji": "🇸🇧"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\udde7"
 	},
 	"SC": {
 		"capital": "Victoria",
@@ -5700,7 +5700,7 @@
 		"timezones": {
 			"Indian/Mahe": "+04:00"
 		},
-		"unicode_emoji": "🇸🇨"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\udde8"
 	},
 	"SD": {
 		"capital": "Khartoum",
@@ -5729,7 +5729,7 @@
 		"timezones": {
 			"Africa/Khartoum": "+03:00"
 		},
-		"unicode_emoji": "🇸🇳"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\udde9"
 	},
 	"SE": {
 		"capital": "Stockholm",
@@ -5758,7 +5758,7 @@
 		"timezones": {
 			"Europe/Stockholm": "+02:00"
 		},
-		"unicode_emoji": "🇸🇪"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\uddea"
 	},
 	"SG": {
 		"capital": "Singapore",
@@ -5787,7 +5787,7 @@
 		"timezones": {
 			"Asia/Singapore": "+08:00"
 		},
-		"unicode_emoji": "🇸🇬"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\uddec"
 	},
 	"SH": {
 		"capital": "Jamestown",
@@ -5816,7 +5816,7 @@
 		"timezones": {
 			"Atlantic/St_Helena": "+00:00"
 		},
-		"unicode_emoji": "🇸🇭"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\udded"
 	},
 	"SI": {
 		"capital": "Ljubljana",
@@ -5845,7 +5845,7 @@
 		"timezones": {
 			"Europe/Ljubljana": "+02:00"
 		},
-		"unicode_emoji": "🇸🇮"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\uddee"
 	},
 	"SJ": {
 		"capital": "Longyearbyen",
@@ -5854,7 +5854,7 @@
 			"name": "Norwegian krone",
 			"symbol": "kr"
 		},
-		"dialling_code": "+4779",
+		"dialling_code": "+47",
 		"emoji": "🇸🇯",
 		"flag": "https://restcountries.eu/data/sjm.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SJ.svg",
@@ -5874,7 +5874,7 @@
 		"timezones": {
 			"Arctic/Longyearbyen": "+01:00"
 		},
-		"unicode_emoji": "🇸🇯"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\uddef"
 	},
 	"SK": {
 		"capital": "Bratislava",
@@ -5903,7 +5903,7 @@
 		"timezones": {
 			"Europe/Bratislava": "+02:00"
 		},
-		"unicode_emoji": "🇸🇰"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\uddf0"
 	},
 	"SL": {
 		"capital": "Freetown",
@@ -5932,7 +5932,7 @@
 		"timezones": {
 			"Africa/Freetown": "+00:00"
 		},
-		"unicode_emoji": "🇸🇱"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\uddf1"
 	},
 	"SM": {
 		"capital": "City of San Marino",
@@ -5961,7 +5961,7 @@
 		"timezones": {
 			"Europe/San_Marino": "+02:00"
 		},
-		"unicode_emoji": "🇸🇲"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\uddf2"
 	},
 	"SN": {
 		"capital": "Dakar",
@@ -5990,7 +5990,7 @@
 		"timezones": {
 			"Africa/Dakar": "±00:00"
 		},
-		"unicode_emoji": "🇸🇳"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\uddf3"
 	},
 	"SO": {
 		"capital": "Mogadishu",
@@ -6019,7 +6019,7 @@
 		"timezones": {
 			"Africa/Mogadishu": "+03:00"
 		},
-		"unicode_emoji": "🇸🇴"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\uddf4"
 	},
 	"SR": {
 		"capital": "Paramaribo",
@@ -6048,7 +6048,7 @@
 		"timezones": {
 			"America/Paramaribo": "-03:00"
 		},
-		"unicode_emoji": "🇸🇷"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\uddf7"
 	},
 	"SS": {
 		"capital": "Juba",
@@ -6077,7 +6077,7 @@
 		"timezones": {
 			"Africa/Juba": "+03:00"
 		},
-		"unicode_emoji": "🇸🇸"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\uddf8"
 	},
 	"ST": {
 		"capital": "São Tomé",
@@ -6106,7 +6106,7 @@
 		"timezones": {
 			"Africa/Sao_Tome": "±00:00"
 		},
-		"unicode_emoji": "🇸🇹"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\uddf9"
 	},
 	"SV": {
 		"capital": "San Salvador",
@@ -6135,7 +6135,7 @@
 		"timezones": {
 			"America/El_Salvador": "-06:00"
 		},
-		"unicode_emoji": "🇸🇻"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\uddfb"
 	},
 	"SX": {
 		"capital": "Philipsburg",
@@ -6144,7 +6144,7 @@
 			"name": "Netherlands Antillean guilder",
 			"symbol": "ƒ"
 		},
-		"dialling_code": "+1721",
+		"dialling_code": "+599",
 		"emoji": "🇸🇽",
 		"flag": "https://restcountries.eu/data/sxm.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SX.svg",
@@ -6164,7 +6164,7 @@
 		"timezones": {
 			"America/Lower_Philipsburg": "-04:00"
 		},
-		"unicode_emoji": "🇸🇽"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\uddfd"
 	},
 	"SY": {
 		"capital": "Damascus",
@@ -6193,7 +6193,7 @@
 		"timezones": {
 			"Asia/Damascus": "+02:00"
 		},
-		"unicode_emoji": "🇸🇾"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\uddfe"
 	},
 	"SZ": {
 		"capital": "Mbabane",
@@ -6217,12 +6217,12 @@
 			"name": "Swati",
 			"nativeName": "siSwati"
 		},
-		"name": "Eswatini",
+		"name": "Swaziland",
 		"region": "Africa",
 		"timezones": {
 			"Africa/Mbabane": "+02:00"
 		},
-		"unicode_emoji": "🇸🇿"
+		"unicode_emoji": "\ud83c\uddf8\ud83c\uddff"
 	},
 	"TC": {
 		"capital": "Cockburn Town",
@@ -6231,7 +6231,7 @@
 			"name": "United States dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+1649",
+		"dialling_code": "+1-649",
 		"emoji": "🇹🇨",
 		"flag": "https://restcountries.eu/data/tca.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TC.svg",
@@ -6251,7 +6251,7 @@
 		"timezones": {
 			"America/Grand_Turk": "-04:00"
 		},
-		"unicode_emoji": "🇹🇨"
+		"unicode_emoji": "\ud83c\uddf9\ud83c\udde8"
 	},
 	"TD": {
 		"capital": "N'Djamena",
@@ -6280,7 +6280,7 @@
 		"timezones": {
 			"Africa/Ndjamena": "+01:00"
 		},
-		"unicode_emoji": "🇹🇼"
+		"unicode_emoji": "\ud83c\uddf9\ud83c\udde9"
 	},
 	"TF": {
 		"capital": "Port-aux-Français",
@@ -6289,7 +6289,7 @@
 			"name": "Euro",
 			"symbol": "€"
 		},
-		"dialling_code": "",
+		"dialling_code": "+",
 		"emoji": "🇹🇫",
 		"flag": "https://restcountries.eu/data/atf.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TF.svg",
@@ -6305,11 +6305,11 @@
 			"nativeName": "français"
 		},
 		"name": "French Southern Territories",
-		"region": "Antarctica",
+		"region": "Africa",
 		"timezones": {
 			"Indian/Kerguelen": "+05:00"
 		},
-		"unicode_emoji": "🇹🇫"
+		"unicode_emoji": "\ud83c\uddf9\ud83c\uddeb"
 	},
 	"TG": {
 		"capital": "Lomé",
@@ -6338,7 +6338,7 @@
 		"timezones": {
 			"Africa/Lome": "+00:00"
 		},
-		"unicode_emoji": "🇹🇬"
+		"unicode_emoji": "\ud83c\uddf9\ud83c\uddec"
 	},
 	"TH": {
 		"capital": "Bangkok",
@@ -6367,7 +6367,7 @@
 		"timezones": {
 			"Asia/Bangkok": "+07:00"
 		},
-		"unicode_emoji": "🇹🇭"
+		"unicode_emoji": "\ud83c\uddf9\ud83c\udded"
 	},
 	"TJ": {
 		"capital": "Dushanbe",
@@ -6396,7 +6396,7 @@
 		"timezones": {
 			"Asia/Dushanbe": "+05:00"
 		},
-		"unicode_emoji": "🇹🇾"
+		"unicode_emoji": "\ud83c\uddf9\ud83c\uddef"
 	},
 	"TK": {
 		"capital": "Fakaofo",
@@ -6425,7 +6425,7 @@
 		"timezones": {
 			"Pacific/Fakaofo": "+13:00"
 		},
-		"unicode_emoji": "🇹🇰"
+		"unicode_emoji": "\ud83c\uddf9\ud83c\uddf0"
 	},
 	"TL": {
 		"capital": "Dili",
@@ -6454,7 +6454,7 @@
 		"timezones": {
 			"Asia/Dili": "+09:00"
 		},
-		"unicode_emoji": "🇹🇱"
+		"unicode_emoji": "\ud83c\uddf9\ud83c\uddf1"
 	},
 	"TM": {
 		"capital": "Ashgabat",
@@ -6483,7 +6483,7 @@
 		"timezones": {
 			"Asia/Ashgabat": "+05:00"
 		},
-		"unicode_emoji": "🇹🇲"
+		"unicode_emoji": "\ud83c\uddf9\ud83c\uddf2"
 	},
 	"TN": {
 		"capital": "Tunis",
@@ -6512,7 +6512,7 @@
 		"timezones": {
 			"Africa/Tunis": "+01:00"
 		},
-		"unicode_emoji": "🇹🇳"
+		"unicode_emoji": "\ud83c\uddf9\ud83c\uddf3"
 	},
 	"TO": {
 		"capital": "Nuku'alofa",
@@ -6541,7 +6541,7 @@
 		"timezones": {
 			"Pacific/Tongatapu": "+13:00"
 		},
-		"unicode_emoji": "🇹🇴"
+		"unicode_emoji": "\ud83c\uddf9\ud83c\uddf4"
 	},
 	"TR": {
 		"capital": "Ankara",
@@ -6570,7 +6570,7 @@
 		"timezones": {
 			"Europe/Istanbul": "+03:00"
 		},
-		"unicode_emoji": "🇹🇷"
+		"unicode_emoji": "\ud83c\uddf9\ud83c\uddf7"
 	},
 	"TT": {
 		"capital": "Port of Spain",
@@ -6579,7 +6579,7 @@
 			"name": "Trinidad and Tobago dollar",
 			"symbol": "TT$"
 		},
-		"dialling_code": "+1868",
+		"dialling_code": "+1-868",
 		"emoji": "🇹🇹",
 		"flag": "https://restcountries.eu/data/tto.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TT.svg",
@@ -6599,7 +6599,7 @@
 		"timezones": {
 			"America/Port_of_Spain": "-04:00"
 		},
-		"unicode_emoji": "🇹🇹"
+		"unicode_emoji": "\ud83c\uddf9\ud83c\uddf9"
 	},
 	"TV": {
 		"capital": "Funafuti",
@@ -6628,7 +6628,7 @@
 		"timezones": {
 			"Pacific/Funafuti": "+12:00"
 		},
-		"unicode_emoji": "🇹🇻"
+		"unicode_emoji": "\ud83c\uddf9\ud83c\uddfb"
 	},
 	"TW": {
 		"capital": "Taipei",
@@ -6652,12 +6652,12 @@
 			"name": "Chinese",
 			"nativeName": "中文 (Zhōngwén)"
 		},
-		"name": "Taiwan",
+		"name": "Taiwan, Province of China",
 		"region": "Asia",
 		"timezones": {
 			"Asia/Taipei": "+08:00"
 		},
-		"unicode_emoji": "🇹🇼"
+		"unicode_emoji": "\ud83c\uddf9\ud83c\uddfc"
 	},
 	"TZ": {
 		"capital": "Dodoma",
@@ -6686,7 +6686,7 @@
 		"timezones": {
 			"Africa/Dar_es_Salaam": "+03:00"
 		},
-		"unicode_emoji": "🇹🇿"
+		"unicode_emoji": "\ud83c\uddf9\ud83c\uddff"
 	},
 	"UA": {
 		"capital": "Kyiv",
@@ -6715,7 +6715,7 @@
 		"timezones": {
 			"Europe/Kiev": "+02:00"
 		},
-		"unicode_emoji": "🇺🇦"
+		"unicode_emoji": "\ud83c\uddfa\ud83c\udde6"
 	},
 	"UG": {
 		"capital": "Kampala",
@@ -6744,7 +6744,7 @@
 		"timezones": {
 			"Africa/Kampala": "+03:00"
 		},
-		"unicode_emoji": "🇺🇬"
+		"unicode_emoji": "\ud83c\uddfa\ud83c\uddec"
 	},
 	"UM": {
 		"capital": "",
@@ -6753,7 +6753,7 @@
 			"name": "United States dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "",
+		"dialling_code": "+1",
 		"emoji": "🇺🇲",
 		"flag": "https://restcountries.eu/data/umi.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UM.svg",
@@ -6769,13 +6769,13 @@
 			"nativeName": "English"
 		},
 		"name": "United States Minor Outlying Islands",
-		"region": "Americas",
+		"region": "Oceania",
 		"timezones": {
 			"Pacific/Johnston": "-10:00",
 			"Pacific/Midway": "-11:00",
 			"Pacific/Wake": "+12:00"
 		},
-		"unicode_emoji": "🇺🇲"
+		"unicode_emoji": "\ud83c\uddfa\ud83c\uddf2"
 	},
 	"US": {
 		"capital": "Washington, D.C.",
@@ -6799,7 +6799,7 @@
 			"name": "English",
 			"nativeName": "English"
 		},
-		"name": "United States of America",
+		"name": "United States",
 		"region": "Americas",
 		"timezones": {
 			"America/Adak": "-10:00",
@@ -6834,7 +6834,7 @@
 			"America/Yakutat": "-08:00",
 			"Pacific/Honolulu": "-10:00"
 		},
-		"unicode_emoji": "🇺🇸"
+		"unicode_emoji": "\ud83c\uddfa\ud83c\uddf8"
 	},
 	"UY": {
 		"capital": "Montevideo",
@@ -6863,7 +6863,7 @@
 		"timezones": {
 			"America/Montevideo": "-03:00"
 		},
-		"unicode_emoji": "🇺🇾"
+		"unicode_emoji": "\ud83c\uddfa\ud83c\uddfe"
 	},
 	"UZ": {
 		"capital": "Tashkent",
@@ -6893,7 +6893,7 @@
 			"Asia/Samarkand": "+05:00",
 			"Asia/Tashkent": "+05:00"
 		},
-		"unicode_emoji": "🇺🇿"
+		"unicode_emoji": "\ud83c\uddfa\ud83c\uddff"
 	},
 	"VA": {
 		"capital": "Vatican City",
@@ -6922,7 +6922,7 @@
 		"timezones": {
 			"Europe/Vatican": "+02:00"
 		},
-		"unicode_emoji": "🇻🇦"
+		"unicode_emoji": "\ud83c\uddfb\ud83c\udde6"
 	},
 	"VC": {
 		"capital": "Kingstown",
@@ -6931,7 +6931,7 @@
 			"name": "East Caribbean dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+1784",
+		"dialling_code": "+1-784",
 		"emoji": "🇻🇨",
 		"flag": "https://restcountries.eu/data/vct.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VC.svg",
@@ -6951,7 +6951,7 @@
 		"timezones": {
 			"America/St_Vincent": "-04:00"
 		},
-		"unicode_emoji": "🇻🇨"
+		"unicode_emoji": "\ud83c\uddfb\ud83c\udde8"
 	},
 	"VE": {
 		"capital": "Caracas",
@@ -6975,12 +6975,12 @@
 			"name": "Spanish",
 			"nativeName": "español"
 		},
-		"name": "Venezuela (Bolivarian Republic of)",
+		"name": "Venezuela, Bolivarian Republic of",
 		"region": "Americas",
 		"timezones": {
 			"America/Caracas": "-04:00"
 		},
-		"unicode_emoji": "🇻🇪"
+		"unicode_emoji": "\ud83c\uddfb\ud83c\uddea"
 	},
 	"VG": {
 		"capital": "Road Town",
@@ -6989,7 +6989,7 @@
 			"name": "United States dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+1284",
+		"dialling_code": "+1-284",
 		"emoji": "🇻🇬",
 		"flag": "https://restcountries.eu/data/vgb.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VG.svg",
@@ -7004,12 +7004,12 @@
 			"name": "English",
 			"nativeName": "English"
 		},
-		"name": "Virgin Islands (British)",
+		"name": "Virgin Islands, British",
 		"region": "Americas",
 		"timezones": {
 			"America/Tortola": "-04:00"
 		},
-		"unicode_emoji": "🇻🇬"
+		"unicode_emoji": "\ud83c\uddfb\ud83c\uddec"
 	},
 	"VI": {
 		"capital": "Charlotte Amalie",
@@ -7018,7 +7018,7 @@
 			"name": "United States dollar",
 			"symbol": "$"
 		},
-		"dialling_code": "+1340",
+		"dialling_code": "+1-340",
 		"emoji": "🇻🇮",
 		"flag": "https://restcountries.eu/data/vir.svg",
 		"image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VI.svg",
@@ -7033,12 +7033,12 @@
 			"name": "English",
 			"nativeName": "English"
 		},
-		"name": "Virgin Islands (U.S.)",
+		"name": "Virgin Islands, U.S.",
 		"region": "Americas",
 		"timezones": {
 			"America/St_Thomas": "-04:00"
 		},
-		"unicode_emoji": "🇻🇮"
+		"unicode_emoji": "\ud83c\uddfb\ud83c\uddee"
 	},
 	"VN": {
 		"capital": "Hanoi",
@@ -7067,7 +7067,7 @@
 		"timezones": {
 			"Asia/Ho_Chi_Minh": "+07:00"
 		},
-		"unicode_emoji": "🇻🇳"
+		"unicode_emoji": "\ud83c\uddfb\ud83c\uddf3"
 	},
 	"VU": {
 		"capital": "Port Vila",
@@ -7096,7 +7096,7 @@
 		"timezones": {
 			"Pacific/Efate": "+11:00"
 		},
-		"unicode_emoji": "🇻🇺"
+		"unicode_emoji": "\ud83c\uddfb\ud83c\uddfa"
 	},
 	"WF": {
 		"capital": "Mata-Utu",
@@ -7125,7 +7125,7 @@
 		"timezones": {
 			"Pacific/Wallis": "+12:00"
 		},
-		"unicode_emoji": "🇼🇫"
+		"unicode_emoji": "\ud83c\uddfc\ud83c\uddeb"
 	},
 	"WS": {
 		"capital": "Apia",
@@ -7154,7 +7154,7 @@
 		"timezones": {
 			"Pacific/Apia": "+13:00"
 		},
-		"unicode_emoji": "🇼🇸"
+		"unicode_emoji": "\ud83c\uddfc\ud83c\uddf8"
 	},
 	"YE": {
 		"capital": "Sana'a",
@@ -7183,7 +7183,7 @@
 		"timezones": {
 			"Asia/Aden": "+03:00"
 		},
-		"unicode_emoji": "🇼🇪"
+		"unicode_emoji": "\ud83c\uddfe\ud83c\uddea"
 	},
 	"YT": {
 		"capital": "Mamoudzou",
@@ -7212,7 +7212,7 @@
 		"timezones": {
 			"Indian/Mayotte": "+03:00"
 		},
-		"unicode_emoji": "🇾🇹"
+		"unicode_emoji": "\ud83c\uddfe\ud83c\uddf9"
 	},
 	"ZA": {
 		"capital": "Pretoria",
@@ -7241,7 +7241,7 @@
 		"timezones": {
 			"Africa/Johannesburg": "+02:00"
 		},
-		"unicode_emoji": "🇿🇦"
+		"unicode_emoji": "\ud83c\uddff\ud83c\udde6"
 	},
 	"ZM": {
 		"capital": "Lusaka",
@@ -7270,7 +7270,7 @@
 		"timezones": {
 			"Africa/Lusaka": "+02:00"
 		},
-		"unicode_emoji": "🇿🇲"
+		"unicode_emoji": "\ud83c\uddff\ud83c\uddf2"
 	},
 	"ZW": {
 		"capital": "Harare",
@@ -7299,6 +7299,6 @@
 		"timezones": {
 			"Africa/Harare": "+02:00"
 		},
-		"unicode_emoji": "🇿🇼"
+		"unicode_emoji": "\ud83c\uddff\ud83c\uddfc"
 	}
 }
